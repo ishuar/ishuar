@@ -34,8 +34,8 @@ Hi, welcome to my GitHub profile! 👋
 - 👯 I’m looking to collaborate on python projects.
 
 #### 📫 How to reach me
-- Twitter: https://twitter.com/ishuar_
-- LinkedIn: https://www.linkedin.com/in/ishuar/
+- [Twitter](https://twitter.com/ishuar_)
+- [LinkedIn](https://www.linkedin.com/in/ishuar/)
 
 #### 💬 Feedback
 
