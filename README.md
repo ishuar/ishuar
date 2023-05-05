@@ -8,9 +8,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform code to deploy AWS Elastic Kubernetes Service with real world examples. (2 months ago)
 - [ishuar/stackoverflow-terraform](https://github.com/ishuar/stackoverflow-terraform) - Support for Stack overflow terraform community. (3 months ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
 - [Improved Documentation: pin minor version of eks in all examples and readme.](https://github.com/ishuar/terraform-aws-eks/pull/37) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (2 months ago)
 - [Made examples `private_cluster` and `cluster_with_alb` deployable without any changes ](https://github.com/ishuar/terraform-aws-eks/pull/35) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (2 months ago)
-- [Consistent file names](https://github.com/ishuar/terraform-aws-eks/pull/34) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (3 months ago)
 
 #### ⭐ Recent Stars
 
