@@ -9,18 +9,18 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (today)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform code to deploy AWS Elastic Kubernetes Service with real world examples. (2 months ago)
-- [ishuar/stackoverflow-terraform](https://github.com/ishuar/stackoverflow-terraform) - Support for Stack overflow terraform community. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.3.1](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.3.1), 1 day ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) ([v1.5.0](https://github.com/ishuar/terraform-aws-eks/releases/tag/v1.5.0), 2 months ago) - This repository contains terraform code to deploy AWS Elastic Kubernetes Service with real world examples.
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.2.0), 4 months ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.0.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.0.0), 11 months ago) - This module generates the SSH key for any development used case. 
 
 #### 🔨 My recent Pull Requests
 
-- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
+- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 day ago)
 - [Improved Documentation: pin minor version of eks in all examples and readme.](https://github.com/ishuar/terraform-aws-eks/pull/37) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (2 months ago)
 - [Made examples `private_cluster` and `cluster_with_alb` deployable without any changes ](https://github.com/ishuar/terraform-aws-eks/pull/35) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (2 months ago)
 
