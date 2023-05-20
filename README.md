@@ -26,9 +26,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (today)
+- [Techtonica/curriculum](https://github.com/Techtonica/curriculum) - This repo contains the curriculum of Techtonica, a free tech training program for women and non-binary adults with low incomes. (today)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (2 days ago)
-- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development (3 months ago)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
