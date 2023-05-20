@@ -4,7 +4,7 @@
 Hi, welcome to my GitHub profile! 👋
 
 #### Currently Learning
-- 🌱 I’m currently learning [Crossplane](https://www.crossplane.io/)
+- 🌱 Deployment of cloud infrastructure with [Kubernetes](https://kubernetes.io/docs/concepts/overview/) & [Crossplane](https://www.crossplane.io/).
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
@@ -36,6 +36,10 @@ Hi, welcome to my GitHub profile! 👋
 #### 📫 How to reach me
 - [Twitter](https://twitter.com/ishuar_)
 - [LinkedIn](https://www.linkedin.com/in/ishuar/)
+
+#### GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 #### 💬 Feedback
 
