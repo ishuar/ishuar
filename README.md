@@ -8,7 +8,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (3 days ago)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (4 days ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 week ago)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (2 months ago)
 
@@ -16,7 +16,7 @@ Hi, welcome to my GitHub profile! 👋
 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 1 week ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) ([v1.5.0](https://github.com/ishuar/terraform-aws-eks/releases/tag/v1.5.0), 3 months ago) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples.
-- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.0.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.0.0), 11 months ago) - This module generates the SSH key for any development used case. 
+- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.0.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.0.0), 1 year ago) - This module generates the SSH key for any development used case. 
 
 #### 🔨 My recent Pull Requests
 
@@ -26,9 +26,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (4 days ago)
-- [Techtonica/curriculum](https://github.com/Techtonica/curriculum) - This repo contains the curriculum of Techtonica, a free tech training program for women and non-binary adults with low incomes. (4 days ago)
-- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (6 days ago)
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (5 days ago)
+- [Techtonica/curriculum](https://github.com/Techtonica/curriculum) - This repo contains the curriculum of Techtonica, a free tech training program for women and non-binary adults with low incomes. (5 days ago)
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
