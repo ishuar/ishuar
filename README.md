@@ -8,7 +8,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (5 days ago)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (6 days ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 weeks ago)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (2 months ago)
 
@@ -26,8 +26,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (6 days ago)
-- [Techtonica/curriculum](https://github.com/Techtonica/curriculum) - This repo contains the curriculum of Techtonica, a free tech training program for women and non-binary adults with low incomes. (6 days ago)
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (1 week ago)
+- [Techtonica/curriculum](https://github.com/Techtonica/curriculum) - This repo contains the curriculum of Techtonica, a free tech training program for women and non-binary adults with low incomes. (1 week ago)
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000&#43; Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000&#43; tiny programs. (1 week ago)
 
 #### 👯 Check out some of my recent followers
