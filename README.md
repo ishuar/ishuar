@@ -8,9 +8,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (1 week ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 weeks ago)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
