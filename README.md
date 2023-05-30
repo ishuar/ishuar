@@ -16,7 +16,6 @@ Hi, welcome to my GitHub profile! 👋
 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) ([v1.5.0](https://github.com/ishuar/terraform-aws-eks/releases/tag/v1.5.0), 3 months ago) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples.
-- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.0.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.0.0), 1 year ago) - This module generates the SSH key for any development used case. 
 
 #### 🔨 My recent Pull Requests
 
