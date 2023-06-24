@@ -25,9 +25,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (3 weeks ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (3 weeks ago)
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (3 weeks ago)
+- [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (4 weeks ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (4 weeks ago)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
