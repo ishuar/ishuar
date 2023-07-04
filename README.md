@@ -8,8 +8,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (1 week ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -19,8 +19,8 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
-- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 month ago)
-- [Improved Documentation: pin minor version of eks in all examples and readme.](https://github.com/ishuar/terraform-aws-eks/pull/37) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (3 months ago)
+- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 months ago)
+- [Improved Documentation: pin minor version of eks in all examples and readme.](https://github.com/ishuar/terraform-aws-eks/pull/37) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (4 months ago)
 - [Made examples `private_cluster` and `cluster_with_alb` deployable without any changes ](https://github.com/ishuar/terraform-aws-eks/pull/35) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (4 months ago)
 
 #### ⭐ Recent Stars
