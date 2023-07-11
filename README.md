@@ -25,9 +25,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
+- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (today)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (1 month ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 month ago)
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
