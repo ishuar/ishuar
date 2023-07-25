@@ -9,7 +9,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (3 weeks ago)
+- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (4 weeks ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -25,7 +25,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
-- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (1 week ago)
+- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (2 weeks ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (1 month ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 month ago)
 
