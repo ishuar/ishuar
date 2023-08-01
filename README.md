@@ -25,9 +25,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### ⭐ Recent Stars
 
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (3 weeks ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (2 months ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
