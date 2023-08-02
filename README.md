@@ -19,9 +19,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: Ansible Worflow ](https://github.com/ishuar/terraform-ansible/pull/3) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
 - [added tfsec exceptions, removed unwanted NSG rule , improved github action workflow](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
 - [Added terraform deployment github action](https://github.com/ishuar/terraform-ansible/pull/1) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
-- [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 months ago)
 
 #### ⭐ Recent Stars
 
