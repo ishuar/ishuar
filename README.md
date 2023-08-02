@@ -9,7 +9,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 - [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -19,13 +19,13 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [added tfsec exceptions](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
+- [Added terraform deployment github action](https://github.com/ishuar/terraform-ansible/pull/1) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
 - [Set min provider to `3.55` , new attributes and added cluster diagnostic settings](https://github.com/ishuar/terraform-azure-aks/pull/6) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 months ago)
-- [Improved Documentation: pin minor version of eks in all examples and readme.](https://github.com/ishuar/terraform-aws-eks/pull/37) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (4 months ago)
-- [Made examples `private_cluster` and `cluster_with_alb` deployable without any changes ](https://github.com/ishuar/terraform-aws-eks/pull/35) on [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) (5 months ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 day ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (3 weeks ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (2 months ago)
 
