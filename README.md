@@ -8,24 +8,25 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
+- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (today)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 day ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
-- [ishuar/platform-engineering](https://github.com/ishuar/platform-engineering) - Infrastructure involved in platform engineering (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.1.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.1.0), today) - This module generates the SSH key for any development used case. 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 2 months ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) ([v1.5.0](https://github.com/ishuar/terraform-aws-eks/releases/tag/v1.5.0), 5 months ago) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples.
 
 #### 🔨 My recent Pull Requests
 
-- [Improve Github Worflows](https://github.com/ishuar/terraform-ansible/pull/3) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
-- [added tfsec exceptions, removed unwanted NSG rule , improved github action workflow](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
-- [Added terraform deployment github action](https://github.com/ishuar/terraform-ansible/pull/1) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
+- [Improve Github Worflows](https://github.com/ishuar/terraform-ansible/pull/3) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
+- [added tfsec exceptions, removed unwanted NSG rule , improved github action workflow](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
+- [Added terraform deployment github action](https://github.com/ishuar/terraform-ansible/pull/1) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 day ago)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (2 days ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (3 weeks ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (2 months ago)
 
