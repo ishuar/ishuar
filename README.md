@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [[velero]: feature to allow relabelings in `serviceMonitor`](https://github.com/vmware-tanzu/helm-charts/pull/484) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (today)
 - [Project specific Dir Str and Local Machine features Added](https://github.com/ishuar/terraform-ansible/pull/4) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
 - [Improve Github Worflows](https://github.com/ishuar/terraform-ansible/pull/3) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
-- [added tfsec exceptions, removed unwanted NSG rule , improved github action workflow](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
 
 #### ⭐ Recent Stars
 
