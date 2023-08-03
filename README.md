@@ -9,7 +9,7 @@ Hi, welcome to my GitHub profile! 👋
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (today)
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 day ago)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Project specific Dir Str and Local Machine features Added](https://github.com/ishuar/terraform-ansible/pull/4) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
 - [Improve Github Worflows](https://github.com/ishuar/terraform-ansible/pull/3) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 day ago)
 - [added tfsec exceptions, removed unwanted NSG rule , improved github action workflow](https://github.com/ishuar/terraform-ansible/pull/2) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
-- [Added terraform deployment github action](https://github.com/ishuar/terraform-ansible/pull/1) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
 
 #### ⭐ Recent Stars
 
