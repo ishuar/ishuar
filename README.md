@@ -10,13 +10,13 @@ Hi, welcome to my GitHub profile! 👋
 
 - [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (4 days ago)
 - [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (4 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.1.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.1.0), 4 days ago) - This module generates the SSH key for any development used case. 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 2 months ago) - Terraform Module to deploy a AKS cluster
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) ([v1.5.0](https://github.com/ishuar/terraform-aws-eks/releases/tag/v1.5.0), 5 months ago) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples.
 
 #### 🔨 My recent Pull Requests
 
