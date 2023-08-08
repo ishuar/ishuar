@@ -14,7 +14,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.3.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.1.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.1.0), 5 days ago) - This module generates the SSH key for any development used case. 
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 2 months ago) - Terraform Module to deploy a AKS cluster
 
