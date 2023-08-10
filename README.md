@@ -8,26 +8,26 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (6 days ago)
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (6 days ago)
-- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (6 days ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 week ago)
+- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.1.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.1.0), 6 days ago) - This module generates the SSH key for any development used case. 
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 2 months ago) - Terraform Module to deploy a AKS cluster
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) ([v1.1.0](https://github.com/ishuar/terraform-sshkey-generator/releases/tag/v1.1.0), 1 week ago) - This module generates the SSH key for any development used case. 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.4.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.4.0), 3 months ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [Feat: enable `securityContext` on spire server pod](https://github.com/cilium/cilium/pull/27363) on [cilium/cilium](https://github.com/cilium/cilium) (1 day ago)
-- [[velero]: feature to allow relabelings in `serviceMonitor`](https://github.com/vmware-tanzu/helm-charts/pull/484) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (6 days ago)
-- [Project specific Dir Str and Local Machine features Added](https://github.com/ishuar/terraform-ansible/pull/4) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (6 days ago)
+- [Feat: enable `securityContext` on spire server pod](https://github.com/cilium/cilium/pull/27363) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
+- [[velero]: feature to allow relabelings in `serviceMonitor`](https://github.com/vmware-tanzu/helm-charts/pull/484) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
+- [Project specific Dir Str and Local Machine features Added](https://github.com/ishuar/terraform-ansible/pull/4) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 week ago)
-- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (4 weeks ago)
+- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (1 month ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (2 months ago)
 
 #### 👯 Check out some of my recent followers
