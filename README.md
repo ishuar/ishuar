@@ -8,9 +8,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
 - [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 week ago)
-- [ishuar/terraform-sshkey-generator](https://github.com/ishuar/terraform-sshkey-generator) - This module generates the SSH key for any development used case.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: added fluxcd kubernetes extension ](https://github.com/ishuar/terraform-azure-aks/pull/7) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
 - [Feat: enable `securityContext` on spire server pod](https://github.com/cilium/cilium/pull/27363) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [[velero]: feature to allow relabelings in `serviceMonitor`](https://github.com/vmware-tanzu/helm-charts/pull/484) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
-- [Project specific Dir Str and Local Machine features Added](https://github.com/ishuar/terraform-ansible/pull/4) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (1 week ago)
 
 #### ⭐ Recent Stars
 
