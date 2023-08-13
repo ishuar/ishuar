@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [[Security]: Harden the system](https://github.com/ishuar/terraform-ansible/pull/6) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
 - [[Enhancements]: Added reusable workflow and Terraform tweaks](https://github.com/ishuar/terraform-ansible/pull/5) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
 - [Feature: added fluxcd kubernetes extension ](https://github.com/ishuar/terraform-azure-aks/pull/7) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
-- [Feat: enable `securityContext` on spire server pod](https://github.com/cilium/cilium/pull/27363) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 #### ⭐ Recent Stars
 
