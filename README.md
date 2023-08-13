@@ -20,9 +20,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: Affinity in `cilium-pre-flight-check` daemonset](https://github.com/cilium/cilium/pull/27475) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible/pull/7) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
 - [[Security]: Harden the system](https://github.com/ishuar/terraform-ansible/pull/6) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (today)
-- [[Enhancements]: Added reusable workflow and Terraform tweaks](https://github.com/ishuar/terraform-ansible/pull/5) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (2 days ago)
 
 #### ⭐ Recent Stars
 
