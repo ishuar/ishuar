@@ -14,7 +14,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.13](https://github.com/cilium/cilium/releases/tag/v1.12.13), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.5.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.5.0), 5 days ago) - Terraform Module to deploy a AKS cluster
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
 
