@@ -32,9 +32,9 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👯 Check out some of my recent followers
 
+- [engrbilal1](https://github.com/engrbilal1)
 - [skuethe](https://github.com/skuethe)
 - [himd93](https://github.com/himd93)
-- [sunnynazar](https://github.com/sunnynazar)
 
 - 👯 I’m looking to collaborate on python projects.
 
