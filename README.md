@@ -8,7 +8,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
 
@@ -22,11 +22,11 @@ Hi, welcome to my GitHub profile! 👋
 
 - [fix: Helm Docs makefile to be compatible with macOs](https://github.com/cilium/cilium/pull/27495) on [cilium/cilium](https://github.com/cilium/cilium) (2 days ago)
 - [Fix: Affinity in `cilium-pre-flight-check` daemonset](https://github.com/cilium/cilium/pull/27475) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible/pull/7) on [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) (3 days ago)
+- [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible-azure/pull/7) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (2 weeks ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (2 weeks ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (1 month ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (2 months ago)
 
