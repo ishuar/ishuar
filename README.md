@@ -8,7 +8,7 @@ Hi, welcome to my GitHub profile! 👋
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (1 day ago)
+- [ishuar/terraform-ansible](https://github.com/ishuar/terraform-ansible) - Repository for Combination of terraform and Ansible (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 days ago)
 
