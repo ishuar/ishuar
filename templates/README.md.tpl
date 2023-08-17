@@ -22,7 +22,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="dockerhub" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="50" height="50" />
   <img src="./svg/argoprojio-icon.svg" alt="argocd" width="50" height="50" />
-  <img src="https://worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="50" height="50" />
+  <img src="https://worldvectorlogo.com/logos/github-icon.svg" alt="Github" width="50" height="50" />
   <img src="https://worldvectorlogo.com/logos/git-icon-1.svg" alt="Git" width="50" height="50" />
 </p>
 
@@ -59,8 +59,9 @@
 
 #### GitHub Stats
 
-[![Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)
-[![Ishan Github stats](github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical)](https://github.com/ishuar/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Ishan's Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Ishan's Github stats](github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical)](https://github.com/ishuar/github-readme-stats)
+[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 #### 💬 Feedback
 
