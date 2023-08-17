@@ -7,6 +7,8 @@
 
 ### Site Reliability Engineer @ [cloudeteer](https://cloudeteer.de/)
 
+[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ### Platform & Tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <!-- For more icons please follow  https://worldvectorlogo.com/ -->
@@ -23,7 +25,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="50" height="50" />
   <img src="./svg/argoprojio-icon.svg" alt="argocd" width="50" height="50" />
   <img src="https://worldvectorlogo.com/logos/github-icon.svg" alt="Github" width="50" height="50" />
-  <img src="https://worldvectorlogo.com/logos/git-icon-1.svg" alt="Git" width="50" height="50" />
+  <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
 
 #### Currently Learning
@@ -59,9 +61,15 @@
 
 #### GitHub Stats
 
-[![Ishan's Github Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Ishan's Github stats](github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical)](https://github.com/ishuar/github-readme-stats)
-[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/ishuar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://github.com/ishuar/ishuar">
+  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=220&theme=radical" />
+</a>
+
+
+[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true&card_width=780)](https://git.io/streak-stats)
 
 #### 💬 Feedback
 
