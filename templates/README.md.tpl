@@ -61,15 +61,10 @@
 
 #### GitHub Stats
 
-<a href="https://github.com/ishuar/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/ishuar/ishuar">
-  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=220&theme=radical" />
-</a>
+[![Ishan's GitHub Stats](https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/ishuar/github-readme-stats)
 
-
-[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true&card_width=780)](https://git.io/streak-stats)
+[![Ishan's Top Languages](https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
+[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
 #### 💬 Feedback
 
