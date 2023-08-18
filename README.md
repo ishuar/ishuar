@@ -34,20 +34,20 @@
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (today)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 days ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (1 day ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.5.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.5.0), 1 week ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Helm Docs makefile to be compatible with macOs](https://github.com/cilium/cilium/pull/27495) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [Fix: Affinity in `cilium-pre-flight-check` daemonset](https://github.com/cilium/cilium/pull/27475) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible-azure/pull/7) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (4 days ago)
+- [fix: Helm Docs makefile to be compatible with macOs](https://github.com/cilium/cilium/pull/27495) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [Fix: Affinity in `cilium-pre-flight-check` daemonset](https://github.com/cilium/cilium/pull/27475) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible-azure/pull/7) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -66,15 +66,10 @@
 
 #### GitHub Stats
 
-<a href="https://github.com/ishuar/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/ishuar/ishuar">
-  <img height=200 align="center" src="https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=220&theme=radical" />
-</a>
+[![Ishan's GitHub Stats](https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/ishuar/github-readme-stats)
 
-
-[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=true&card_width=780)](https://git.io/streak-stats)
+[![Ishan's Top Languages](https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
+[![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
 #### 💬 Feedback
 
