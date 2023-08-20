@@ -57,9 +57,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [pushkalv](https://github.com/pushkalv)
 - [engrbilal1](https://github.com/engrbilal1)
 - [skuethe](https://github.com/skuethe)
-- [himd93](https://github.com/himd93)
 
 - 👯 I’m looking to collaborate on python projects.
 
