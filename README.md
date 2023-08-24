@@ -33,15 +33,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
-- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (1 week ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.5.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.5.0), 1 week ago) - Terraform Module to deploy a AKS cluster
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.5.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.5.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
