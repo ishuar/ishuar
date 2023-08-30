@@ -33,21 +33,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Not full blown Terraform  module for AWS VPC (today)
+- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Practical and easy to follow Terraform  module for AWS VPC (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v1.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v1.0.0), today) - Practical and easy to follow Terraform  module for AWS VPC
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.5.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.5.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
+- [`v1.0.0`](https://github.com/ishuar/terraform-aws-vpc/pull/1) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (today)
 - [fix: Helm Docs makefile to be compatible with macOs](https://github.com/cilium/cilium/pull/27495) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
 - [Fix: Affinity in `cilium-pre-flight-check` daemonset](https://github.com/cilium/cilium/pull/27475) on [cilium/cilium](https://github.com/cilium/cilium) (2 weeks ago)
-- [[Documentation] Added docs ](https://github.com/ishuar/terraform-ansible-azure/pull/7) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
