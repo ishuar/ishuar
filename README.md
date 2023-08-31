@@ -39,9 +39,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.0), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 1 day ago) - Practical and easy to follow Terraform  module for AWS VPC
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.1](https://github.com/cilium/cilium/releases/tag/v1.14.1), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 My recent Pull Requests
 
