@@ -34,20 +34,20 @@
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (today)
-- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Practical and easy to follow Terraform  module for AWS VPC (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Practical and easy to follow Terraform  module for AWS VPC (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.0), 5 days ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 6 days ago) - Practical and easy to follow Terraform  module for AWS VPC
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.0), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 1 week ago) - Practical and easy to follow Terraform  module for AWS VPC
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [testing with terratest](https://github.com/ishuar/terraform-aws-vpc/pull/4) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (1 day ago)
-- [workflow for testing](https://github.com/ishuar/terraform-aws-vpc/pull/3) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (5 days ago)
-- [Refactor and added example for bootstrap routing](https://github.com/ishuar/terraform-aws-vpc/pull/2) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (6 days ago)
+- [testing with terratest](https://github.com/ishuar/terraform-aws-vpc/pull/4) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (2 days ago)
+- [workflow for testing](https://github.com/ishuar/terraform-aws-vpc/pull/3) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (6 days ago)
+- [Refactor and added example for bootstrap routing](https://github.com/ishuar/terraform-aws-vpc/pull/2) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (1 week ago)
 
 #### ⭐ Recent Stars
 
