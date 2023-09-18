@@ -33,20 +33,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (1 week ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.14](https://github.com/cilium/cilium/releases/tag/v1.12.14), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.14](https://github.com/cilium/cilium/releases/tag/v1.12.14), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.6.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.6.0), 1 week ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 2 weeks ago) - Practical and easy to follow Terraform  module for AWS VPC
 
 #### 🔨 My recent Pull Requests
 
 - [Feature: enable flux configuration settings ](https://github.com/ishuar/terraform-azure-aks/pull/8) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 week ago)
-- [testing with terratest](https://github.com/ishuar/terraform-aws-vpc/pull/4) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (1 week ago)
+- [testing with terratest](https://github.com/ishuar/terraform-aws-vpc/pull/4) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (2 weeks ago)
 - [workflow for testing](https://github.com/ishuar/terraform-aws-vpc/pull/3) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (2 weeks ago)
 
 #### ⭐ Recent Stars
