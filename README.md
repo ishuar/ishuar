@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.14](https://github.com/cilium/cilium/releases/tag/v1.12.14), 2 weeks ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.6.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.6.0), 3 weeks ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 1 month ago) - Practical and easy to follow Terraform  module for AWS VPC
 
