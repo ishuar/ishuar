@@ -33,13 +33,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (today)
-- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (today)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 day ago)
+- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (1 day ago)
+- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), 1 day ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.6.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.6.0), 3 weeks ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 1 month ago) - Practical and easy to follow Terraform  module for AWS VPC
 
@@ -47,7 +47,7 @@
 
 - [Feature: enable flux configuration settings ](https://github.com/ishuar/terraform-azure-aks/pull/8) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 weeks ago)
 - [testing with terratest](https://github.com/ishuar/terraform-aws-vpc/pull/4) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (3 weeks ago)
-- [workflow for testing](https://github.com/ishuar/terraform-aws-vpc/pull/3) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (4 weeks ago)
+- [workflow for testing](https://github.com/ishuar/terraform-aws-vpc/pull/3) on [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) (1 month ago)
 
 #### ⭐ Recent Stars
 
