@@ -33,9 +33,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (3 days ago)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (3 days ago)
-- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
