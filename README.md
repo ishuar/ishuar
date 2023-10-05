@@ -33,13 +33,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (5 days ago)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (6 days ago)
+- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v1.6.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v1.6.0), 4 weeks ago) - Terraform Module to deploy a AKS cluster
 - [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) ([v2.0.0](https://github.com/ishuar/terraform-aws-vpc/releases/tag/v2.0.0), 1 month ago) - Practical and easy to follow Terraform  module for AWS VPC
 
