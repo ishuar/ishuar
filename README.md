@@ -33,25 +33,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 days ago)
 - [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.0.1](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.0.1), 2 days ago) - Terraform Module to deploy a AKS cluster
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.0.1](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.0.1), 3 days ago) - Terraform Module to deploy a AKS cluster
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 My recent Pull Requests
 
-- [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 days ago)
-- [GH Actions:  Automated release workflow on push to main](https://github.com/ishuar/terraform-azure-aks/pull/13) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 days ago)
-- [[gh-workflow]: Added check for readme diff in validate PR check and improved release workflow.](https://github.com/ishuar/terraform-azure-aks/pull/12) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 days ago)
+- [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
+- [GH Actions:  Automated release workflow on push to main](https://github.com/ishuar/terraform-azure-aks/pull/13) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
+- [[gh-workflow]: Added check for readme diff in validate PR check and improved release workflow.](https://github.com/ishuar/terraform-azure-aks/pull/12) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (2 weeks ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (3 weeks ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (3 months ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (4 months ago)
 
