@@ -33,9 +33,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 days ago)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -45,9 +45,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Optional get the stable aks version automatically.](https://github.com/ishuar/terraform-azure-aks/pull/15) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
 - [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
 - [GH Actions:  Automated release workflow on push to main](https://github.com/ishuar/terraform-azure-aks/pull/13) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
-- [[gh-workflow]: Added check for readme diff in validate PR check and improved release workflow.](https://github.com/ishuar/terraform-azure-aks/pull/12) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 days ago)
 
 #### ⭐ Recent Stars
 
