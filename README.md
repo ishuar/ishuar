@@ -45,9 +45,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
 - [Optional get the stable aks version automatically.](https://github.com/ishuar/terraform-azure-aks/pull/15) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 day ago)
 - [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (4 days ago)
-- [GH Actions:  Automated release workflow on push to main](https://github.com/ishuar/terraform-azure-aks/pull/13) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (4 days ago)
 
 #### ⭐ Recent Stars
 
