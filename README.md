@@ -33,25 +33,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 days ago)
-- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (3 days ago)
+- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.8](https://github.com/cilium/cilium/releases/tag/v1.13.8), today) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 2 days ago) - Terraform Module to deploy a AKS cluster
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.8](https://github.com/cilium/cilium/releases/tag/v1.13.8), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 3 days ago) - Terraform Module to deploy a AKS cluster
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [ Removed `retention_policy` block from `azurerm_monitor_diagnostic_setting` &amp; added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (5 days ago)
-- [Optional get the stable aks version automatically.](https://github.com/ishuar/terraform-azure-aks/pull/15) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (6 days ago)
+- [ Removed `retention_policy` block from `azurerm_monitor_diagnostic_setting` &amp; added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (6 days ago)
+- [Optional get the stable aks version automatically.](https://github.com/ishuar/terraform-azure-aks/pull/15) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 week ago)
 - [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (3 weeks ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (4 weeks ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (3 months ago)
 - [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (4 months ago)
 
