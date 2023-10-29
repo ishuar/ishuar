@@ -33,21 +33,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 week ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (2 weeks ago)
 - [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.3](https://github.com/cilium/cilium/releases/tag/v1.14.3), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 1 week ago) - Terraform Module to deploy a AKS cluster
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
 - [ Removed `retention_policy` block from `azurerm_monitor_diagnostic_setting` &amp; added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 weeks ago)
 - [Optional get the stable aks version automatically.](https://github.com/ishuar/terraform-azure-aks/pull/15) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 weeks ago)
-- [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 weeks ago)
+- [FluxCD configuration bug fixes and removed deprecated attributes](https://github.com/ishuar/terraform-azure-aks/pull/14) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
