@@ -33,14 +33,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Practical and easy to follow Terraform  module for AWS VPC (2 days ago)
-- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (2 days ago)
-- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (2 days ago)
+- [ishuar/terraform-aws-eks](https://github.com/ishuar/terraform-aws-eks) - This repository contains terraform module to deploy AWS Elastic Kubernetes Service with real world examples. (today)
+- [ishuar/terraform-aws-vpc](https://github.com/ishuar/terraform-aws-vpc) - Practical and easy to follow Terraform  module for AWS VPC (3 days ago)
+- [ishuar/kubernetes-projects](https://github.com/ishuar/kubernetes-projects) - This repository provides  beginner to intermediate level hands-on projects with solutions.  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.2), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.2), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 3 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
