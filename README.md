@@ -57,9 +57,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [HARSHALJETHWA19](https://github.com/HARSHALJETHWA19)
 - [sanket2000sonavane](https://github.com/sanket2000sonavane)
 - [hacktivist123](https://github.com/hacktivist123)
-- [kshn01](https://github.com/kshn01)
 
 - 👯 I’m looking to collaborate on python projects.
 
