@@ -34,8 +34,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (today)
-- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
