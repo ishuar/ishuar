@@ -33,20 +33,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.4](https://github.com/cilium/cilium/releases/tag/v1.14.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 1 month ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (today)
-- [[velero]: Feature push new charts to GHCR OCI registry as well](https://github.com/vmware-tanzu/helm-charts/pull/523) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (today)
+- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 day ago)
+- [[velero]: Feature push new charts to GHCR OCI registry as well](https://github.com/vmware-tanzu/helm-charts/pull/523) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 day ago)
 - [ Removed `retention_policy` block from `azurerm_monitor_diagnostic_setting` &amp; added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 month ago)
 
 #### ⭐ Recent Stars
