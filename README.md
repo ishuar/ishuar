@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishuar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@learndevopsdotin) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishuar)
 
-### Site Reliability Engineer @ [cloudeteer](https://cloudeteer.de/)
+### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
 
 [![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -30,24 +30,25 @@
 
 #### Currently Learning
 - 🌱 Deployment of cloud infrastructure with [Kubernetes](https://kubernetes.io/docs/concepts/overview/) & [Crossplane](https://www.crossplane.io/).
+- [Go](https://go.dev/doc/) programming language.
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (today)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (4 days ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (5 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 1 month ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (4 days ago)
-- [[velero]: Feature push new charts to GHCR OCI registry as well](https://github.com/vmware-tanzu/helm-charts/pull/523) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (4 days ago)
-- [ Removed `retention_policy` block from `azurerm_monitor_diagnostic_setting` &amp; added `terraform` tests.](https://github.com/ishuar/terraform-azure-aks/pull/16) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 month ago)
+- [fix: Incorrect precondition on nodepools &amp; removed deprecated `public_network_access_enabled` attribute](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (today)
+- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
+- [[velero]: Feature push new charts to GHCR OCI registry as well](https://github.com/vmware-tanzu/helm-charts/pull/523) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
