@@ -46,9 +46,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Incorrect precondition on nodepools &amp; removed deprecated `public_network_access_enabled` attribute](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (today)
+- [Removed deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (today)
+- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (today)
 - [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
-- [[velero]: Feature push new charts to GHCR OCI registry as well](https://github.com/vmware-tanzu/helm-charts/pull/523) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
