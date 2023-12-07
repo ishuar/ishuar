@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishuar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@learndevopsdotin) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishuar)
 
-### Site Reliability Engineer @ [cloudeteer](https://cloudeteer.de/)
+### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
 
 [![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
@@ -30,6 +30,7 @@
 
 #### Currently Learning
 - 🌱 Deployment of cloud infrastructure with [Kubernetes](https://kubernetes.io/docs/concepts/overview/) & [Crossplane](https://www.crossplane.io/).
+- [Go](https://go.dev/doc/) programming language.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
