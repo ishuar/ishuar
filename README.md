@@ -34,21 +34,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (today)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 day ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (2 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.15.0-pre.3), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 1 month ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [Removed deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 day ago)
-- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 day ago)
-- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (6 days ago)
+- [Removed deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (2 days ago)
+- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (2 days ago)
+- [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
