@@ -34,8 +34,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (3 days ago)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (4 days ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (4 days ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (5 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -46,8 +46,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Removed deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (4 days ago)
-- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (4 days ago)
+- [Removed deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (5 days ago)
+- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (5 days ago)
 - [[velero]: Disable default values for upgradeJobResources](https://github.com/vmware-tanzu/helm-charts/pull/524) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
