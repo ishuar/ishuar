@@ -46,9 +46,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (today)
 - [fix: service account naming](https://github.com/pulumi/pulumi-kubernetes-operator/pull/530) on [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (5 days ago)
 - [Ignore deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 week ago)
-- [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 week ago)
 
 #### ⭐ Recent Stars
 
