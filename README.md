@@ -34,19 +34,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (2 days ago)
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) - Terraform Module for deploying an AKS cluster (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 2 months ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [fix: service account naming](https://github.com/pulumi/pulumi-kubernetes-operator/pull/530) on [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (4 days ago)
+- [fix: service account naming](https://github.com/pulumi/pulumi-kubernetes-operator/pull/530) on [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (5 days ago)
 - [Ignore deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 week ago)
 - [feat: enable precondition on `default_node_pool` for autoscaling with node pool type](https://github.com/Azure/terraform-azurerm-aks/pull/484) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (1 week ago)
 
