@@ -34,15 +34,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (3 days ago)
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) - Terraform Module for deploying an AKS cluster (1 week ago)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), today) - Terraform Module to deploy a AKS cluster
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.2.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.2.0), 2 months ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
