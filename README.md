@@ -35,8 +35,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (today)
+- [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (today)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
