@@ -34,21 +34,21 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (today)
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
 - [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (1 day ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.1.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.1.0), today) - This module is for creating workload identities in azure with terraform
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 4 days ago) - Terraform Module to deploy a AKS cluster
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
+- [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
 - [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (5 days ago)
 - [fix: service account naming](https://github.com/pulumi/pulumi-kubernetes-operator/pull/530) on [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (1 week ago)
-- [Ignore deprecated attribute `public_network_access_enabled`](https://github.com/Azure/terraform-azurerm-aks/pull/485) on [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
