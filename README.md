@@ -46,9 +46,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
 - [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
 - [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (5 days ago)
-- [fix: service account naming](https://github.com/pulumi/pulumi-kubernetes-operator/pull/530) on [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) (1 week ago)
 
 #### ⭐ Recent Stars
 
