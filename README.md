@@ -34,27 +34,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (today)
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 day ago)
-- [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (1 day ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (1 day ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (2 days ago)
+- [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.2.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.2.0), today) - This module is for creating workload identities in azure with terraform
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 4 days ago) - Terraform Module to deploy a AKS cluster
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.2.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.2.0), 1 day ago) - This module is for creating workload identities in azure with terraform
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 5 days ago) - Terraform Module to deploy a AKS cluster
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 My recent Pull Requests
 
-- [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
-- [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
-- [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (5 days ago)
+- [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 day ago)
+- [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 day ago)
+- [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (3 months ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (5 months ago)
-- [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (6 months ago)
+- [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
