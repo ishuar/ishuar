@@ -34,20 +34,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (3 days ago)
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (4 days ago)
-- [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (4 days ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (4 days ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (5 days ago)
+- [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.2.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.2.0), 3 days ago) - This module is for creating workload identities in azure with terraform
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.2.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.2.0), 4 days ago) - This module is for creating workload identities in azure with terraform
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 1 week ago) - Terraform Module to deploy a AKS cluster
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 My recent Pull Requests
 
-- [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (3 days ago)
-- [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (3 days ago)
+- [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (4 days ago)
+- [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (4 days ago)
 - [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 week ago)
 
 #### ⭐ Recent Stars
