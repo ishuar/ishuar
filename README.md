@@ -48,7 +48,7 @@
 
 - [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
 - [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
-- [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (1 week ago)
+- [Feat: Add NodePool type and Node temp name for rotation](https://github.com/ishuar/terraform-azure-aks/pull/22) on [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
