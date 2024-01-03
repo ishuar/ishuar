@@ -34,13 +34,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - This module is for creating workload identities in azure with terraform (today)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (today)
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (1 week ago)
 - [ishuar/azure-agic](https://github.com/ishuar/azure-agic) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), today) - This module is for creating workload identities in azure with terraform
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), today) - Terraform module for creating workload identity in azure.
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
