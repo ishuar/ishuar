@@ -40,9 +40,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.0), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), today) - Terraform module for creating workload identity in azure.
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 2 weeks ago) - Terraform Module to deploy a AKS cluster
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.12.17](https://github.com/cilium/cilium/releases/tag/v1.12.17), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 #### 🔨 My recent Pull Requests
 
