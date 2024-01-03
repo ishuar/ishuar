@@ -52,9 +52,9 @@
 
 #### ⭐ Recent Stars
 
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (today)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (3 months ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (5 months ago)
-- [ishuar/calculator](https://github.com/ishuar/calculator) - Calculator program in python language (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
