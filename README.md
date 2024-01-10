@@ -34,25 +34,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
 - [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.0), 6 days ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), 6 days ago) - Terraform module for creating workload identity in azure.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), 1 week ago) - Terraform module for creating workload identity in azure.
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 3 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [added complete example with aks](https://github.com/ishuar/terraform-azure-workload-identity/pull/3) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (6 days ago)
+- [added complete example with aks](https://github.com/ishuar/terraform-azure-workload-identity/pull/3) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
 - [Update examples and add tests for multiple identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/2) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (2 weeks ago)
 - [Azure Workload Identity initial version `v0.1.0`](https://github.com/ishuar/terraform-azure-workload-identity/pull/1) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (6 days ago)
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 week ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (3 months ago)
 - [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (6 months ago)
 
