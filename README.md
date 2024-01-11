@@ -34,9 +34,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
-- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (2 weeks ago)
+- [ishuar/kubernetes-in-real-life](https://github.com/ishuar/kubernetes-in-real-life) - Kubernetes projects: Real-Life Scenarios and In-Depth Deployments (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
