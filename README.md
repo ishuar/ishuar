@@ -34,21 +34,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (3 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (4 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), 1 week ago) - Terraform module for creating workload identity in azure.
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 3 weeks ago) - Terraform Module to deploy a AKS cluster
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) ([v2.3.0](https://github.com/ishuar/terraform-azure-aks/releases/tag/v2.3.0), 4 weeks ago) - Terraform Module to deploy a AKS cluster
 
 #### 🔨 My recent Pull Requests
 
-- [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (5 days ago)
-- [added xyz to dev env](https://github.com/ishuar/argocd-multi-cluster/pull/6) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (5 days ago)
-- [add a new app](https://github.com/ishuar/argocd-multi-cluster/pull/2) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (5 days ago)
+- [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (6 days ago)
+- [added xyz to dev env](https://github.com/ishuar/argocd-multi-cluster/pull/6) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (6 days ago)
+- [add a new app](https://github.com/ishuar/argocd-multi-cluster/pull/2) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (6 days ago)
 
 #### ⭐ Recent Stars
 
