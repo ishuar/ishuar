@@ -34,8 +34,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (6 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -46,9 +46,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/more granular control](https://github.com/ishuar/argocd-multi-cluster/pull/10) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (today)
 - [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
 - [added xyz to dev env](https://github.com/ishuar/argocd-multi-cluster/pull/6) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
-- [add a new app](https://github.com/ishuar/argocd-multi-cluster/pull/2) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
 
 #### ⭐ Recent Stars
 
