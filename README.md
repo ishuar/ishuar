@@ -34,19 +34,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.1), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.15.0-rc.1), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), 2 weeks ago) - Terraform module for creating workload identity in azure.
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/more granular control](https://github.com/ishuar/argocd-multi-cluster/pull/10) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (2 days ago)
+- [Feat/more granular control](https://github.com/ishuar/argocd-multi-cluster/pull/10) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (3 days ago)
 - [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
 - [added xyz to dev env](https://github.com/ishuar/argocd-multi-cluster/pull/6) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
 
