@@ -34,13 +34,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (6 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.3.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.3.0), 3 weeks ago) - Terraform module for creating workload identity in azure.
 
