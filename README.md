@@ -34,19 +34,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (1 week ago)
+- [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (today)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9), today) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9), 1 day ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
+- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
 - [Feat/more granular control](https://github.com/ishuar/argocd-multi-cluster/pull/10) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
 - [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (2 weeks ago)
 
