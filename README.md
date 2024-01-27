@@ -46,9 +46,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (today)
 - [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 day ago)
 - [Feat/more granular control](https://github.com/ishuar/argocd-multi-cluster/pull/10) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (1 week ago)
-- [added xyz to stage env ](https://github.com/ishuar/argocd-multi-cluster/pull/7) on [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
