@@ -35,8 +35,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (today)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -52,9 +52,9 @@
 
 #### ⭐ Recent Stars
 
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (today)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (3 weeks ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (4 months ago)
-- [ministryofjustice/modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
