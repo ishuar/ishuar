@@ -34,25 +34,25 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (1 day ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (1 day ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 days ago)
+- [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (2 days ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (2 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9), 2 days ago) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9), 3 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.6](https://github.com/cilium/cilium/releases/tag/v1.14.6), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 day ago)
-- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 day ago)
-- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 days ago)
+- [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (2 days ago)
+- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (2 days ago)
+- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (1 day ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (2 days ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (3 weeks ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (4 months ago)
 
