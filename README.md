@@ -34,8 +34,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (today)
 - [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (3 days ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using argocd with multi cluster deployments (3 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
