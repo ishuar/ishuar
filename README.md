@@ -58,9 +58,9 @@
 
 #### 👯 Check out some of my recent followers
 
+- [DanyalTaghipor](https://github.com/DanyalTaghipor)
 - [Bgithub-036](https://github.com/Bgithub-036)
 - [HARSHALJETHWA19](https://github.com/HARSHALJETHWA19)
-- [sanket2000sonavane](https://github.com/sanket2000sonavane)
 
 - 👯 I’m looking to collaborate on python projects.
 
