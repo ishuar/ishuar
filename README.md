@@ -1,13 +1,11 @@
-## Hi there I am [ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ishuar_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishuar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@learndevopsdotin) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishuar)
 
-### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
+## Hi there I am [Ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
 
-[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
 
 ### Platform & Tools ⚙️
 
@@ -28,36 +26,39 @@
   <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
 
-#### 🌱 Currently Learning
+[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+### 🌱 Currently Learning
 
 - German 🇩🇪 and [Go](https://go.dev/doc/) programming language.
 - Multi-Cloud & Multi-Kubernetes Remote Clusters Management with [ArgoCD](https://argoproj.io/argo-cd/).
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
 - [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (2 weeks ago)
 - [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) - Bash scripts used for repeated Tasks  (2 weeks ago)
 
-#### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.7), 1 day ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.0](https://github.com/cilium/cilium/releases/tag/v1.15.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 
-#### 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 
 - [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (2 weeks ago)
 - [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (2 weeks ago)
 - [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 
-#### ⭐ Recent Stars
+### ⭐ Recent Stars
 
 - [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (2 weeks ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 month ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (4 months ago)
 
-#### 👯 Check out some of my recent followers
+### 👯 Check out some of my recent followers
 
 - [DanyalTaghipor](https://github.com/DanyalTaghipor)
 - [Bgithub-036](https://github.com/Bgithub-036)
@@ -66,14 +67,14 @@
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
 ---
-#### GitHub Stats
+### GitHub Stats
 
 [![Ishan's GitHub Stats](https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/ishuar/github-readme-stats)
 
 [![Ishan's Top Languages](https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
 [![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
-#### 💬 Feedback
+### 💬 Feedback
 
 Say Hello, I don't bite!
 
