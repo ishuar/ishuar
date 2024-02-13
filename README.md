@@ -3,9 +3,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@learndevopsdotin) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishuar)
 
 ## Hi there I am [Ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
 
-### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
+#### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
 
 ### Platform & Tools ⚙️
 
