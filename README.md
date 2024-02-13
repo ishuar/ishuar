@@ -21,6 +21,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="dockerhub" width="50" height="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="50" height="50" />
   <img src="./svg/argoprojio-icon.svg" alt="argocd" width="50" height="50" />
+  <img src="./svg/fluxcdio-icon.svg" alt="fluxcd" width="50" height="50" />
   <img src="https://worldvectorlogo.com/logos/github-icon-2.svg" alt="Github" width="50" height="50" />
   <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
