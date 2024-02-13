@@ -1,13 +1,11 @@
-## Hi there I am [ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ishuar_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishuar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@learndevopsdotin) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ishuar)
 
-### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
+## Hi there I am [Ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
 
-[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
 
 ### Platform & Tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -28,32 +26,35 @@
   <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
 
-#### 🌱 Currently Learning
+[![Ishan's Github Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishuar&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+### 🌱 Currently Learning
 
 - German 🇩🇪 and [Go](https://go.dev/doc/) programming language.
 - Multi-Cloud & Multi-Kubernetes Remote Clusters Management with [ArgoCD](https://argoproj.io/argo-cd/).
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### ⭐ Recent Stars
+### ⭐ Recent Stars
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+### 👯 Check out some of my recent followers
 {{range followers 3}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
@@ -61,14 +62,14 @@
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
 ---
-#### GitHub Stats
+### GitHub Stats
 
 [![Ishan's GitHub Stats](https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/ishuar/github-readme-stats)
 
 [![Ishan's Top Languages](https://github-readme-stats-ishuar.vercel.app/api/top-langs?username=ishuar&layout=compact&langs_count=8&card_width=400&theme=radical)](#)
 [![Ishan's GitHub Streak](https://streak-stats.demolab.com?user=ishuar&theme=radical&hide_border=false&card_width=400)](https://git.io/streak-stats)
 
-#### 💬 Feedback
+### 💬 Feedback
 
 Say Hello, I don't bite!
 
