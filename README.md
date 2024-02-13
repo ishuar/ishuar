@@ -28,9 +28,10 @@
   <img src="https://worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="50" height="50" />
 </p>
 
-#### Currently Learning
-- 🌱 Deployment of cloud infrastructure with [Kubernetes](https://kubernetes.io/docs/concepts/overview/) & [Crossplane](https://www.crossplane.io/).
-- [Go](https://go.dev/doc/) programming language.
+#### 🌱 Currently Learning
+
+- German 🇩🇪 and [Go](https://go.dev/doc/) programming language.
+- Multi-Cloud & Multi-Kubernetes Remote Clusters Management with [ArgoCD](https://argoproj.io/argo-cd/).
 
 #### 👷 Check out what I'm currently working on
 
@@ -62,9 +63,9 @@
 - [Bgithub-036](https://github.com/Bgithub-036)
 - [HARSHALJETHWA19](https://github.com/HARSHALJETHWA19)
 
-- 👯 I’m looking to collaborate on python projects.
-
-
+---
+> 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
+---
 #### GitHub Stats
 
 [![Ishan's GitHub Stats](https://github-readme-stats-ishuar.vercel.app/api?username=ishuar&show_icons=true&count_private=true&theme=radical&show=prs_merged_percentage&rank_icon=github)](https://github.com/ishuar/github-readme-stats)
