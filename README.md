@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (today)
+- [backstage-ct/argocd-hackathon-demo](https://github.com/backstage-ct/argocd-hackathon-demo) - This repo is used for demo purposes in CT during hackathon. (today)
 - [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
