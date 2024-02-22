@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [update sync policy to create namespace](https://github.com/backstage-ct/go-template/pull/1) on [backstage-ct/go-template](https://github.com/backstage-ct/go-template) (today)
 - [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (3 weeks ago)
 - [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (3 weeks ago)
-- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
