@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (1 day ago)
+- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (today)
 - [backstage-ct/argocd-hackathon-demo](https://github.com/backstage-ct/argocd-hackathon-demo) - This repo is used for demo purposes in CT during hackathon. (1 day ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (1 day ago)
+- [backstage-ct/bye-world-4](https://github.com/backstage-ct/bye-world-4) - This is a test (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
