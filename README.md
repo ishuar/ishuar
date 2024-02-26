@@ -37,8 +37,8 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (3 days ago)
-- [backstage-ct/argocd-hackathon-demo](https://github.com/backstage-ct/argocd-hackathon-demo) - This repo is used for demo purposes in CT during hackathon. (4 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (4 days ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [update sync policy to create namespace](https://github.com/backstage-ct/go-template/pull/1) on [backstage-ct/go-template](https://github.com/backstage-ct/go-template) (4 days ago)
 - [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
 - [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
+- [fix(argo-cd): Fix Repo server `serviceaccount` label template](https://github.com/argoproj/argo-helm/pull/2454) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 month ago)
 
 ### ⭐ Recent Stars
 
