@@ -36,25 +36,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (2 days ago)
-- [backstage-ct/argocd-hackathon-demo](https://github.com/backstage-ct/argocd-hackathon-demo) - This repo is used for demo purposes in CT during hackathon. (3 days ago)
-- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (3 days ago)
+- [backstage-ct/go-template](https://github.com/backstage-ct/go-template) -  (3 days ago)
+- [backstage-ct/argocd-hackathon-demo](https://github.com/backstage-ct/argocd-hackathon-demo) - This repo is used for demo purposes in CT during hackathon. (4 days ago)
+- [ishuar/terraform-azure-aks](https://github.com/ishuar/terraform-azure-aks) - Terraform Module to deploy a AKS cluster (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.6.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.6.2), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.6.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.6.2), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.1](https://github.com/cilium/cilium/releases/tag/v1.15.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [update sync policy to create namespace](https://github.com/backstage-ct/go-template/pull/1) on [backstage-ct/go-template](https://github.com/backstage-ct/go-template) (3 days ago)
-- [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (4 weeks ago)
-- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (4 weeks ago)
+- [update sync policy to create namespace](https://github.com/backstage-ct/go-template/pull/1) on [backstage-ct/go-template](https://github.com/backstage-ct/go-template) (4 days ago)
+- [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
+- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (4 weeks ago)
+- [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (1 month ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 month ago)
 - [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) - Terraform and Ansible: Teaming Up for Automated Azure Cloud Magic (5 months ago)
 
