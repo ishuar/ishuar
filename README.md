@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [updated github actions to use federated credentials](https://github.com/ishuar/terraform-ansible-azure/pull/18) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (today)
 - [Feat: Support GitHub workflow Identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/4) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (today)
 - [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
-- [added azure terraform remote backend](https://github.com/ishuar/bash-scripts/pull/1) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
 
 ### ⭐ Recent Stars
 
