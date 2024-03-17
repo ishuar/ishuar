@@ -36,25 +36,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
 - [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.13](https://github.com/cilium/cilium/releases/tag/v1.13.13), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.2), 3 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.13](https://github.com/cilium/cilium/releases/tag/v1.13.13), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.2), 4 days ago) - ArgoProj Helm Charts
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 week ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [updated github actions to use federated credentials](https://github.com/ishuar/terraform-ansible-azure/pull/18) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (1 week ago)
-- [Feat: Support GitHub workflow Identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/4) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
+- [updated github actions to use federated credentials](https://github.com/ishuar/terraform-ansible-azure/pull/18) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (2 weeks ago)
+- [Feat: Support GitHub workflow Identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/4) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (2 weeks ago)
 - [Modify key name](https://github.com/ishuar/bash-scripts/pull/2) on [ishuar/bash-scripts](https://github.com/ishuar/bash-scripts) (1 month ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 - [ishuar/argocd-multi-cluster](https://github.com/ishuar/argocd-multi-cluster) - Example of using ArgoCD in Azure Kubernetes Service with multi remote clusters deployments. (1 month ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 months ago)
 
