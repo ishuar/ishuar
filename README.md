@@ -36,21 +36,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (3 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.3), today) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.13](https://github.com/cilium/cilium/releases/tag/v1.13.13), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.3), 1 day ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.13](https://github.com/cilium/cilium/releases/tag/v1.13.13), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 week ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [linux: added day 4 and standardised intro.](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/3) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 days ago)
+- [Linux: Added day 5 `package_management`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/4) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
+- [linux: added day 4 and standardised intro.](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/3) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 days ago)
 - [updated github actions to use federated credentials](https://github.com/ishuar/terraform-ansible-azure/pull/18) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (2 weeks ago)
-- [Feat: Support GitHub workflow Identities](https://github.com/ishuar/terraform-azure-workload-identity/pull/4) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (2 weeks ago)
 
 ### ⭐ Recent Stars
 
