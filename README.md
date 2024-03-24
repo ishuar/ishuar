@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (5 days ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Complete skeleton first version](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/6) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
 - [Linux: Added day 5 `package_management`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/4) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
 - [linux: added day 4 and standardised intro.](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/3) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 week ago)
-- [updated github actions to use federated credentials](https://github.com/ishuar/terraform-ansible-azure/pull/18) on [ishuar/terraform-ansible-azure](https://github.com/ishuar/terraform-ansible-azure) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
