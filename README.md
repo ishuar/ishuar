@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.3](https://github.com/cilium/cilium/releases/tag/v1.15.3), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.14.9](https://github.com/cilium/cilium/releases/tag/v1.14.9), today) - eBPF-based Networking, Security, and Observability
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1), today) - ArgoProj Helm Charts
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 weeks ago) - Terraform module for creating workload identity in azure.
 
