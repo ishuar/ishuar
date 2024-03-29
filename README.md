@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (5 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Linux: Day 5 formatting](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/9) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
+- [Linux: Added day 6 `ssh-and-secure-access`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/8) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
 - [Added `containerization` skeleton to strucutre](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/7) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
-- [Complete skeleton first version](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/6) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
-- [Linux: Added day 5 `package_management`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/4) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 week ago)
 
 ### ⭐ Recent Stars
 
