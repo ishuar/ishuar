@@ -4,7 +4,7 @@
 
 ## Hi there I am [Ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Site Reliability Engineer @ [commercetools](https://commercetools.com/)
+#### Senior DevOps Engineer @[AboutYou](https://corporate.aboutyou.de/en/)
 
 ### Platform & Tools ⚙️
 
@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
