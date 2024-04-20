@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.2), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.4](https://github.com/cilium/cilium/releases/tag/v1.15.4), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.13), 1 day ago) - ArgoProj Helm Charts
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 month ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
