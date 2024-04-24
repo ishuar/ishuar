@@ -36,14 +36,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.14), 2 days ago) - ArgoProj Helm Charts
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.4](https://github.com/cilium/cilium/releases/tag/v1.15.4), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.14), 3 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.4](https://github.com/cilium/cilium/releases/tag/v1.15.4), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 month ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
