@@ -36,15 +36,15 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.2), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.4), 4 days ago) - ArgoProj Helm Charts
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 month ago) - Terraform module for creating workload identity in azure.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.2), today) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.2), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 months ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
