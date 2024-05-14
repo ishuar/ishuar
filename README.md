@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.1.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.1), 1 day ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-pre.2), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 months ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
