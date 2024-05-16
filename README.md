@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.10.0), today) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.16](https://github.com/cilium/cilium/releases/tag/v1.13.16), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.2), 2 days ago) - ArgoProj Helm Charts
 
 ### 🔨 My recent Pull Requests
 
