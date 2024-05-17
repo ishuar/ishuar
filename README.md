@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.10.0), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.16](https://github.com/cilium/cilium/releases/tag/v1.13.16), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.10.0), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.16](https://github.com/cilium/cilium/releases/tag/v1.13.16), 2 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [Linux: Added day 7 `shell scripting`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/11) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 weeks ago)
+- [Linux: Added day 7 `shell scripting`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/11) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 weeks ago)
 - [linux: Added linux vm options for handson practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/10) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
 - [Linux: Day 5 formatting](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/9) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
 
