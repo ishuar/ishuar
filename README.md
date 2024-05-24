@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [ravanely](https://github.com/ravanely)
 - [maoertel](https://github.com/maoertel)
 - [yzdann](https://github.com/yzdann)
-- [jay-li-0202](https://github.com/jay-li-0202)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
