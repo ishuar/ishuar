@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Feat: Use upstream spire helm chart](https://github.com/cilium/cilium/pull/32716) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [Linux: Added day 7 `shell scripting`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/11) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 weeks ago)
 - [linux: Added linux vm options for handson practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/10) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
-- [Linux: Day 5 formatting](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/9) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
 
 ### ⭐ Recent Stars
 
