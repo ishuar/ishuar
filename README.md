@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.17](https://github.com/cilium/cilium/releases/tag/v1.13.17), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.8), 3 days ago) - ArgoProj Helm Charts
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.17](https://github.com/cilium/cilium/releases/tag/v1.13.17), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.8), 4 days ago) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.6.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.6.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 ### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (2 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 months ago)
 
