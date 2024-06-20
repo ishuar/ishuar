@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.5), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.5), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.0), 3 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 weeks ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (3 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (2 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 months ago)
 
