@@ -36,14 +36,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (today)
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (1 day ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.7.4](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.7.4), today) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.4), 6 days ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.7.4](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.7.4), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.4), 1 week ago) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
