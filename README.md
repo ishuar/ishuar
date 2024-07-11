@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.13.18](https://github.com/cilium/cilium/releases/tag/v1.13.18), today) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.5), 1 day ago) - ArgoProj Helm Charts
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.8.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.8.0), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
