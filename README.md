@@ -42,15 +42,15 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.2), today) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), 4 days ago) - ArgoProj Helm Charts
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.8.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.8.0), 6 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.2), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.6), 5 days ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.8.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.8.0), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
 
+- [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (today)
 - [Feat: Use upstream spire helm chart](https://github.com/cilium/cilium/pull/32716) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 - [Linux: Added day 7 `shell scripting`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/11) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 months ago)
-- [linux: Added linux vm options for handson practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/10) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 months ago)
 
 ### ⭐ Recent Stars
 
