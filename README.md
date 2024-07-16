@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.7), today) - ArgoProj Helm Charts
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0-rc.2](https://github.com/cilium/cilium/releases/tag/v1.16.0-rc.2), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.8.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.8.0), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
 
