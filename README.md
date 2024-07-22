@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/github-actions-certification](https://github.com/ishuar/github-actions-certification) - The repository to successfully clear GitHub Actions certification (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (6 days ago)
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
