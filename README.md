@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (today)
+- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
-- [ishuar/github-actions-certification](https://github.com/ishuar/github-actions-certification) - The repository to successfully clear GitHub Actions certification (1 week ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (today)
 - [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
 - [Feat: Use upstream spire helm chart](https://github.com/cilium/cilium/pull/32716) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
-- [Linux: Added day 7 `shell scripting`](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/11) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 months ago)
 
 ### ⭐ Recent Stars
 
