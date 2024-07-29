@@ -36,25 +36,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (today)
-- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (1 day ago)
+- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.3), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0](https://github.com/cilium/cilium/releases/tag/v1.16.0), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.11), 4 days ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.3), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0](https://github.com/cilium/cilium/releases/tag/v1.16.0), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.11), 5 days ago) - ArgoProj Helm Charts
 
 ### 🔨 My recent Pull Requests
 
-- [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (today)
+- [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (1 day ago)
 - [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 week ago)
 - [Feat: Use upstream spire helm chart](https://github.com/cilium/cilium/pull/32716) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 
 ### ⭐ Recent Stars
 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 month ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 months ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (4 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (4 months ago)
 
