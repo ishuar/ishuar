@@ -36,21 +36,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (4 days ago)
-- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (4 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (5 days ago)
+- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.13), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.13), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0](https://github.com/cilium/cilium/releases/tag/v1.16.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (4 days ago)
+- [Fix filter matching pattern with and without `test` prefix](https://github.com/TypedDevs/bashunit/pull/302) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 day ago)
+- [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (5 days ago)
 - [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 weeks ago)
-- [Feat: Use upstream spire helm chart](https://github.com/cilium/cilium/pull/32716) on [cilium/cilium](https://github.com/cilium/cilium) (2 months ago)
 
 ### ⭐ Recent Stars
 
