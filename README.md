@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (1 week ago)
 - [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.14), 2 days ago) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.14), 3 days ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.0](https://github.com/cilium/cilium/releases/tag/v1.16.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [Fix filter matching pattern with and without `test` prefix](https://github.com/TypedDevs/bashunit/pull/302) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (3 days ago)
+- [Fix filter matching pattern with and without `test` prefix](https://github.com/TypedDevs/bashunit/pull/302) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (4 days ago)
 - [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (1 week ago)
 - [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (2 weeks ago)
 
@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [vintagewang](https://github.com/vintagewang)
 - [akashroy-devops](https://github.com/akashroy-devops)
 - [ravanely](https://github.com/ravanely)
-- [maoertel](https://github.com/maoertel)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
