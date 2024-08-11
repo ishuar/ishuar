@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [debianmaster](https://github.com/debianmaster)
 - [akashroy-devops](https://github.com/akashroy-devops)
 - [ravanely](https://github.com/ravanely)
-- [maoertel](https://github.com/maoertel)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
