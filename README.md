@@ -36,14 +36,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (1 week ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (2 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.4), 2 days ago) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.5), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.4), 3 days ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.5), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.14.0](https://github.com/TypedDevs/bashunit/releases/tag/0.14.0), 1 month ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 
 ### 🔨 My recent Pull Requests
