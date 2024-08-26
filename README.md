@@ -38,7 +38,7 @@
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (3 weeks ago)
-- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (4 weeks ago)
+- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
