@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.4.7), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.5.0), today) - ArgoProj Helm Charts
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.8.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.8.1), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.5), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
