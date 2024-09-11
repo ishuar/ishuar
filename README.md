@@ -36,21 +36,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (1 month ago)
 - [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 
 ### 🔨 My recent Pull Requests
 
+- [feat: Added Books Section in the portfolio](https://github.com/ishuar/ishuar.github.io/pull/2) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
 - [Fix filter matching pattern with and without `test` prefix](https://github.com/TypedDevs/bashunit/pull/302) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 month ago)
 - [Created Staging workflow](https://github.com/ishuar/skills-deploy-to-azure/pull/1) on [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) (1 month ago)
-- [fix: Double `/` on Running script #293 using bash parameter expansion](https://github.com/TypedDevs/bashunit/pull/297) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 month ago)
 
 ### ⭐ Recent Stars
 
