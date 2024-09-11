@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: update footer of the page and docs ](https://github.com/ishuar/ishuar.github.io/pull/4) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
 - [Feat: Added WhatsApp social media icon with channel link](https://github.com/ishuar/ishuar.github.io/pull/3) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
 - [feat: Added Books Section in the portfolio](https://github.com/ishuar/ishuar.github.io/pull/2) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
-- [Fix filter matching pattern with and without `test` prefix](https://github.com/TypedDevs/bashunit/pull/302) on [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) (1 month ago)
 
 ### ⭐ Recent Stars
 
