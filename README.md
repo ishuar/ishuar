@@ -38,19 +38,19 @@
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (1 month ago)
-- [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (1 month ago)
+- [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), 1 day ago) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), 2 days ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 
 ### 🔨 My recent Pull Requests
 
-- [feat: update footer of the page and docs ](https://github.com/ishuar/ishuar.github.io/pull/4) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [Feat: Added WhatsApp social media icon with channel link](https://github.com/ishuar/ishuar.github.io/pull/3) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [feat: Added Books Section in the portfolio](https://github.com/ishuar/ishuar.github.io/pull/2) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [feat: update footer of the page and docs ](https://github.com/ishuar/ishuar.github.io/pull/4) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [Feat: Added WhatsApp social media icon with channel link](https://github.com/ishuar/ishuar.github.io/pull/3) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
 
 ### ⭐ Recent Stars
 
