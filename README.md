@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
 - [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
 - [feat: update footer of the page and docs ](https://github.com/ishuar/ishuar.github.io/pull/4) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
-- [Feat: Added WhatsApp social media icon with channel link](https://github.com/ishuar/ishuar.github.io/pull/3) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
 
 ### ⭐ Recent Stars
 
