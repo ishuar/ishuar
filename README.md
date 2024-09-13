@@ -36,21 +36,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (1 month ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.1), 3 days ago) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.15.0](https://github.com/TypedDevs/bashunit/releases/tag/0.15.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 
 ### 🔨 My recent Pull Requests
 
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 days ago)
 
 ### ⭐ Recent Stars
 
