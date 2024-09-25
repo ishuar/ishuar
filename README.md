@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.2), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.2), 2 days ago) - ArgoProj Helm Charts
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 2 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 
@@ -50,7 +50,7 @@
 
 - [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 - [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
-- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
+- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
 
 ### ⭐ Recent Stars
 
