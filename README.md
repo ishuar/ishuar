@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.4), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.5), today) - ArgoProj Helm Charts
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.1), 3 weeks ago) - Contains Helm charts for Kubernetes related open source tools
 
