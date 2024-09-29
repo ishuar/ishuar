@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.4), 1 day ago) - ArgoProj Helm Charts
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.4), 2 days ago) - ArgoProj Helm Charts
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.16.0](https://github.com/TypedDevs/bashunit/releases/tag/0.16.0), 2 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
 
 ### 🔨 My recent Pull Requests
 
@@ -56,7 +56,7 @@
 
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (4 months ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (6 months ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (6 months ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (7 months ago)
 
 ### 👯 Check out some of my recent followers
 
