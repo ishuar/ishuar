@@ -42,15 +42,15 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), today) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-2.0.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.2), today) - ArgoProj Helm Charts
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 4 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.42.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.5), today) - ArgoProj Helm Charts
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), 1 day ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 5 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
 
 - [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
 - [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
-- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
+- [docs: use Gif from github storage and update readme](https://github.com/ishuar/ishuar.github.io/pull/6) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
