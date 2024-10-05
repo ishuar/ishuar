@@ -37,13 +37,13 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library. (2 months ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (2 months ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.8), 2 days ago) - ArgoProj Helm Charts
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), 4 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way, discover the most modern bash testing library.
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), 4 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
