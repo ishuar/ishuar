@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (2 months ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (2 months ago)
 
@@ -49,8 +49,8 @@
 ### 🔨 My recent Pull Requests
 
 - [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (1 week ago)
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
-- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
+- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
+- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
 
 ### ⭐ Recent Stars
 
