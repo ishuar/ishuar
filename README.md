@@ -43,7 +43,7 @@
 ### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.8), 1 week ago) - ArgoProj Helm Charts
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.17.0](https://github.com/TypedDevs/bashunit/releases/tag/0.17.0), 2 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 2 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
