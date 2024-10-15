@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [willwaydev](https://github.com/willwaydev)
 - [debianmaster](https://github.com/debianmaster)
 - [akashroy-devops](https://github.com/akashroy-devops)
-- [ravanely](https://github.com/ravanely)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
