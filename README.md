@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.1), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 1 day ago) - ArgoProj Helm Charts
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0), 3 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.1), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.6.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.12), 2 days ago) - ArgoProj Helm Charts
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0), 4 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 
 ### 🔨 My recent Pull Requests
 
@@ -55,7 +55,7 @@
 ### ⭐ Recent Stars
 
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (4 months ago)
-- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (6 months ago)
+- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (7 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (7 months ago)
 
 ### 👯 Check out some of my recent followers
