@@ -36,21 +36,21 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (3 months ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.1), today) - ArgoProj Helm Charts
-- [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) ([9.2.0](https://github.com/Azure/terraform-azurerm-aks/releases/tag/9.2.0), 3 days ago) - Terraform Module for deploying an AKS cluster
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.1), 1 day ago) - ArgoProj Helm Charts
+- [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) ([9.2.0](https://github.com/Azure/terraform-azurerm-aks/releases/tag/9.2.0), 4 days ago) - Terraform Module for deploying an AKS cluster
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 ### 🔨 My recent Pull Requests
 
 - [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (1 month ago)
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
-- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
+- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 months ago)
+- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 months ago)
 
 ### ⭐ Recent Stars
 
