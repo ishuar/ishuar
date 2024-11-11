@@ -42,9 +42,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.1), 1 day ago) - ArgoProj Helm Charts
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) ([9.2.0](https://github.com/Azure/terraform-azurerm-aks/releases/tag/9.2.0), 4 days ago) - Terraform Module for deploying an AKS cluster
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 ### 🔨 My recent Pull Requests
 
