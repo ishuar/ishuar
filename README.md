@@ -36,15 +36,15 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (3 months ago)
 - [ishuar/skills-deploy-to-azure](https://github.com/ishuar/skills-deploy-to-azure) - My clone repository (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.3), 4 days ago) - ArgoProj Helm Charts
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.2](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.2), 6 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.3), 5 days ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.2](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.2), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 ### 🔨 My recent Pull Requests
 
