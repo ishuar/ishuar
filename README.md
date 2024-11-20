@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [Jawad12wq](https://github.com/Jawad12wq)
 - [ozunuane](https://github.com/ozunuane)
 - [willwaydev](https://github.com/willwaydev)
-- [debianmaster](https://github.com/debianmaster)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
