@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.9](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.9), today) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.0), 5 days ago) - ArgoProj Helm Charts
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.2](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.2), 2 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
