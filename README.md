@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.9](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.9), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.6), today) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.2](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.2), 2 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
@@ -56,7 +56,7 @@
 
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (6 months ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (8 months ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (8 months ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (9 months ago)
 
 ### 👯 Check out some of my recent followers
 
