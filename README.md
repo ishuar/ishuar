@@ -37,13 +37,13 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (3 months ago)
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (4 months ago)
 - [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), today) - ArgoProj Helm Charts
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 4 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), 1 day ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 5 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 ### 🔨 My recent Pull Requests
