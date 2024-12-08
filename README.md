@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), 5 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.45.1), 6 days ago) - ArgoProj Helm Charts
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) ([9.2.0](https://github.com/Azure/terraform-azurerm-aks/releases/tag/9.2.0), 1 month ago) - Terraform Module for deploying an AKS cluster
 
