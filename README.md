@@ -42,15 +42,15 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.8), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.8), 2 days ago) - ArgoProj Helm Charts
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0), 1 month ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 
 ### 🔨 My recent Pull Requests
 
 - [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (2 months ago)
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 months ago)
-- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 months ago)
+- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 months ago)
+- [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 months ago)
 
 ### ⭐ Recent Stars
 
