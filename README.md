@@ -36,14 +36,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (4 months ago)
 - [ishuar/skills-test-with-actions](https://github.com/ishuar/skills-test-with-actions) - My clone repository (5 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 4 days ago) - ArgoProj Helm Charts
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 3 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.7.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.7.11), 5 days ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.3](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.3), 4 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0), 2 months ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 
 ### 🔨 My recent Pull Requests
@@ -54,8 +54,8 @@
 
 ### ⭐ Recent Stars
 
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (1 week ago)
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (6 months ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (2 weeks ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (7 months ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (9 months ago)
 
 ### 👯 Check out some of my recent followers
