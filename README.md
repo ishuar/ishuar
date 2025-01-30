@@ -48,7 +48,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (3 months ago)
+- [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (4 months ago)
 - [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 months ago)
 - [chore: added images into dedicated dirs](https://github.com/ishuar/ishuar.github.io/pull/7) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 months ago)
 
