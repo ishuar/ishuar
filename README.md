@@ -50,7 +50,7 @@
 
 - [fix: added read contents permissions for validate gh workflow](https://github.com/ishuar/terraform-azure-workload-identity/pull/7) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
 - [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (4 months ago)
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 months ago)
+- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 months ago)
 
 ### ⭐ Recent Stars
 
