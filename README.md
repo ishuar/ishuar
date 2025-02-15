@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (6 months ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -48,13 +48,13 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: added read contents permissions for validate gh workflow](https://github.com/ishuar/terraform-azure-workload-identity/pull/7) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 week ago)
+- [fix: added read contents permissions for validate gh workflow](https://github.com/ishuar/terraform-azure-workload-identity/pull/7) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (2 weeks ago)
 - [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (4 months ago)
 - [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 months ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 week ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 weeks ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (2 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (8 months ago)
 
