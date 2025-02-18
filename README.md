@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-rc.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-rc.1), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-rc.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-rc.1), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.18.0](https://github.com/TypedDevs/bashunit/releases/tag/0.18.0), 4 months ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 11 months ago) - Terraform module for creating workload identity in azure.
 
