@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (today)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way. (7 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: added read contents permissions for validate gh workflow](https://github.com/ishuar/terraform-azure-workload-identity/pull/7) on [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) (1 month ago)
-- [fix: HPA `apiVersion` support for Kubernetes 1.24&#43; versions](https://github.com/estahn/charts/pull/172) on [estahn/charts](https://github.com/estahn/charts) (5 months ago)
-- [chore: npm audit fix and upgrade gh-pages](https://github.com/ishuar/ishuar.github.io/pull/8) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 months ago)
+- [networking: rename directories for better ui/ux](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/14) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
+- [Linux: Added tasks for each day for practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/13) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (today)
+- [Linux: Improve UI/UX by renaming directory structure](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/12) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 day ago)
 
 ### ⭐ Recent Stars
 
