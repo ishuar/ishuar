@@ -36,26 +36,26 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (4 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (5 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0), 2 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0), 2 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0), 3 weeks ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0), 3 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 year ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [networking: rename directories for better ui/ux](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/14) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 days ago)
-- [Linux: Added tasks for each day for practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/13) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 days ago)
-- [Linux: Improve UI/UX by renaming directory structure](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/12) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
+- [networking: rename directories for better ui/ux](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/14) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
+- [Linux: Added tasks for each day for practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/13) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (5 days ago)
+- [Linux: Improve UI/UX by renaming directory structure](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/12) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (6 days ago)
 
 ### ⭐ Recent Stars
 
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (2 months ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (3 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (9 months ago)
 
 ### 👯 Check out some of my recent followers
