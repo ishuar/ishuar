@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [rhysonate](https://github.com/rhysonate)
 - [nholuongut](https://github.com/nholuongut)
 - [Jawad12wq](https://github.com/Jawad12wq)
-- [ozunuane](https://github.com/ozunuane)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
