@@ -60,7 +60,7 @@
 
 ### 👯 Check out some of my recent followers
 
-- [rhysonate](https://github.com/rhysonate)
+- [rhyzinit](https://github.com/rhyzinit)
 - [nholuongut](https://github.com/nholuongut)
 - [Jawad12wq](https://github.com/Jawad12wq)
 
