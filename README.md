@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Fix-experience-mobile-site-1](https://github.com/ishuar/ishuar.github.io/pull/12) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
 - [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/11) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
 - [feat: added new books read](https://github.com/ishuar/ishuar.github.io/pull/10) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
-- [Updated Work Experience](https://github.com/ishuar/ishuar.github.io/pull/9) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
 
 ### ⭐ Recent Stars
 
