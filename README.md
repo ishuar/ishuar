@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
 
@@ -48,8 +48,8 @@
 
 ### 🔨 My recent Pull Requests
 
-- [feat: added new books read](https://github.com/ishuar/ishuar.github.io/pull/10) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 days ago)
-- [Updated Work Experience](https://github.com/ishuar/ishuar.github.io/pull/9) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 days ago)
+- [feat: added new books read](https://github.com/ishuar/ishuar.github.io/pull/10) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
+- [Updated Work Experience](https://github.com/ishuar/ishuar.github.io/pull/9) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
 - [networking: rename directories for better ui/ux](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/14) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 weeks ago)
 
 ### ⭐ Recent Stars
