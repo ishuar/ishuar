@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
 
@@ -48,8 +48,8 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Fix-experience-mobile-site-1](https://github.com/ishuar/ishuar.github.io/pull/12) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 days ago)
-- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/11) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 days ago)
+- [Fix-experience-mobile-site-1](https://github.com/ishuar/ishuar.github.io/pull/12) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 days ago)
+- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/11) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 days ago)
 - [feat: added new books read](https://github.com/ishuar/ishuar.github.io/pull/10) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 
 ### ⭐ Recent Stars
