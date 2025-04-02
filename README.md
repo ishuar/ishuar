@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (3 weeks ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -48,13 +48,13 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/13) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 days ago)
+- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/13) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (6 days ago)
 - [Fix-experience-mobile-site-1](https://github.com/ishuar/ishuar.github.io/pull/12) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 - [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/11) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 month ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (3 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (10 months ago)
 
