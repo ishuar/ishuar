@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (3 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/13) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (6 days ago)
+- [Feat: Use responsive Workexperience Card](https://github.com/ishuar/ishuar.github.io/pull/14) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
+- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/13) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 - [Fix-experience-mobile-site-1](https://github.com/ishuar/ishuar.github.io/pull/12) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
-- [fix: experience section in mobile site](https://github.com/ishuar/ishuar.github.io/pull/11) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 
 ### ⭐ Recent Stars
 
