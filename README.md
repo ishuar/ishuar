@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (4 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [ci: added e2e test for the application](https://github.com/ishuar/ishuar.github.io/pull/16) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [feat: Updated dependencies and libraries](https://github.com/ishuar/ishuar.github.io/pull/15) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [Feat: Use responsive Workexperience Card](https://github.com/ishuar/ishuar.github.io/pull/14) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [ci: added e2e test for the application](https://github.com/ishuar/ishuar.github.io/pull/16) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [feat: Updated dependencies and libraries](https://github.com/ishuar/ishuar.github.io/pull/15) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [Feat: Use responsive Workexperience Card](https://github.com/ishuar/ishuar.github.io/pull/14) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 days ago)
 
 ### ⭐ Recent Stars
 
