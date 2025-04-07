@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (today)
+- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (today)
 - [chore: ai docs and scripts for future referral](https://github.com/ishuar/ishuar.github.io/pull/17) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
-- [ci: added e2e test for the application](https://github.com/ishuar/ishuar.github.io/pull/16) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
-- [feat: Updated dependencies and libraries](https://github.com/ishuar/ishuar.github.io/pull/15) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 days ago)
 
 ### ⭐ Recent Stars
 
