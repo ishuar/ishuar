@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
@@ -48,14 +48,14 @@
 
 ### 🔨 My recent Pull Requests
 
-- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (3 days ago)
-- [chore: ai docs and scripts for future referral](https://github.com/ishuar/ishuar.github.io/pull/17) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 days ago)
+- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
+- [chore: ai docs and scripts for future referral](https://github.com/ishuar/ishuar.github.io/pull/17) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 days ago)
 
 ### ⭐ Recent Stars
 
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (3 months ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (4 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (10 months ago)
 
 ### 👯 Check out some of my recent followers
