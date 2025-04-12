@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (4 days ago)
-- [chore: ai docs and scripts for future referral](https://github.com/ishuar/ishuar.github.io/pull/17) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 days ago)
+- [Added Tests on the project ](https://github.com/ishuar/ishuar.github.io/pull/18) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
+- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
+- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (5 days ago)
 
 ### ⭐ Recent Stars
 
