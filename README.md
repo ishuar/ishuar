@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Added Tests on the project ](https://github.com/ishuar/ishuar.github.io/pull/18) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
-- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
-- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (6 days ago)
+- [Added Tests on the project ](https://github.com/ishuar/ishuar.github.io/pull/18) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 days ago)
+- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
+- [ci/workflows: disable github workflows on forks](https://github.com/cilium/cilium/pull/38791) on [cilium/cilium](https://github.com/cilium/cilium) (1 week ago)
 
 ### ⭐ Recent Stars
 
