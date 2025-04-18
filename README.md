@@ -37,14 +37,14 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.15.16](https://github.com/cilium/cilium/releases/tag/v1.15.16), 3 days ago) - eBPF-based Networking, Security, and Observability
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0), 1 month ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0), 1 month ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 year ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
