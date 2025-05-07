@@ -37,12 +37,12 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (4 weeks ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.2), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.2), 6 days ago) - eBPF-based Networking, Security, and Observability
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0), 2 months ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.0](https://github.com/TypedDevs/bashunit/releases/tag/0.19.0), 2 months ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 
@@ -50,7 +50,7 @@
 
 - [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
 - [Added Tests on the project ](https://github.com/ishuar/ishuar.github.io/pull/18) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
-- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (4 weeks ago)
+- [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 
 ### ⭐ Recent Stars
 
