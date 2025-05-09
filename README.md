@@ -48,7 +48,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 week ago)
+- [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
 - [Added Tests on the project ](https://github.com/ishuar/ishuar.github.io/pull/18) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
 - [ci: added MacOS helper cmd for fixing `Absence of Trailing Spaces`](https://github.com/cilium/cilium/pull/38792) on [cilium/cilium](https://github.com/cilium/cilium) (1 month ago)
 
