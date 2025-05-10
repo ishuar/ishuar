@@ -60,7 +60,7 @@
 
 ### 👯 Check out some of my recent followers
 
-- [vasudevaguntupalli](https://github.com/vasudevaguntupalli)
+- [guntupallivasudeva](https://github.com/guntupallivasudeva)
 - [heinsteinh](https://github.com/heinsteinh)
 - [RhyzInit](https://github.com/RhyzInit)
 
