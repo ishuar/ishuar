@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (4 days ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -48,8 +48,8 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 days ago)
-- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (3 days ago)
+- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 days ago)
+- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 days ago)
 - [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
 
 ### ⭐ Recent Stars
