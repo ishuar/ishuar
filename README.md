@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [florianspk](https://github.com/florianspk)
 - [guntupallivasudeva](https://github.com/guntupallivasudeva)
 - [heinsteinh](https://github.com/heinsteinh)
-- [RhyzInit](https://github.com/RhyzInit)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
