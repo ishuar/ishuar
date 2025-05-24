@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 week ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 weeks ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1), today) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1), 1 day ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0), 3 months ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
 
-- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 week ago)
-- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 week ago)
+- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 weeks ago)
+- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 weeks ago)
 - [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
 
 ### ⭐ Recent Stars
