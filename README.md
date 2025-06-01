@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.1.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.1.0), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.1.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.1.0), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.19.1](https://github.com/TypedDevs/bashunit/releases/tag/0.19.1), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.4](https://github.com/cilium/cilium/releases/tag/v1.17.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (3 months ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (4 months ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (5 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 year ago)
 
