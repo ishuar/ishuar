@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) -  (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (3 weeks ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
