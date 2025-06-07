@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: module linting workflows in action](https://github.com/ishuar/storyblok-challenge/pull/1) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (today)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 weeks ago)
 - [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 weeks ago)
-- [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
 
 ### ⭐ Recent Stars
 
