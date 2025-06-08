@@ -48,9 +48,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: trigger env terraform workflows](https://github.com/ishuar/storyblok-challenge/pull/3) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (today)
 - [ci: fail module lint workflows](https://github.com/ishuar/storyblok-challenge/pull/2) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (1 day ago)
 - [ci: Test Module linting workflows](https://github.com/ishuar/storyblok-challenge/pull/1) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (1 day ago)
-- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 weeks ago)
 
 ### ⭐ Recent Stars
 
