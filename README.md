@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) -  (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 4 days ago) - eBPF-based Networking, Security, and Observability
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0), 6 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-pre.3](https://github.com/cilium/cilium/releases/tag/v1.18.0-pre.3), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.20.0](https://github.com/TypedDevs/bashunit/releases/tag/0.20.0), 1 week ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.1.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.1.0), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 ### 🔨 My recent Pull Requests
 
-- [ci: fail module lint workflows](https://github.com/ishuar/storyblok-challenge/pull/2) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (today)
-- [ci: Test Module linting workflows](https://github.com/ishuar/storyblok-challenge/pull/1) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (today)
+- [ci: fail module lint workflows](https://github.com/ishuar/storyblok-challenge/pull/2) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (1 day ago)
+- [ci: Test Module linting workflows](https://github.com/ishuar/storyblok-challenge/pull/1) on [ishuar/storyblok-challenge](https://github.com/ishuar/storyblok-challenge) (1 day ago)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 weeks ago)
 
 ### ⭐ Recent Stars
