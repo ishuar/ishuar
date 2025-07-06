@@ -38,11 +38,11 @@
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (2 months ago)
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-rc.0), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-rc.0), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0), 2 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.1.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.1.0), 1 month ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
