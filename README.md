@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
-- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (1 month ago)
+- [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) -  (2 months ago)
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0-rc.0](https://github.com/cilium/cilium/releases/tag/v1.18.0-rc.0), 1 week ago) - eBPF-based Networking, Security, and Observability
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0), 2 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.21.0](https://github.com/TypedDevs/bashunit/releases/tag/0.21.0), 3 weeks ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 year ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
-- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (1 month ago)
+- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 months ago)
+- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (2 months ago)
 - [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 months ago)
 
 ### ⭐ Recent Stars
