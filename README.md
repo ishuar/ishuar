@@ -60,9 +60,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [raswanthx7](https://github.com/raswanthx7)
 - [BraveJongen](https://github.com/BraveJongen)
 - [florianspk](https://github.com/florianspk)
-- [guntupallivasudeva](https://github.com/guntupallivasudeva)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
