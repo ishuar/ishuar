@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.22.3](https://github.com/TypedDevs/bashunit/releases/tag/0.22.3), 3 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.0](https://github.com/cilium/cilium/releases/tag/v1.18.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [TypedDevs/bashunit](https://github.com/TypedDevs/bashunit) ([0.22.3](https://github.com/TypedDevs/bashunit/releases/tag/0.22.3), 4 days ago) - A simple testing library for bash scripts. Test your bash scripts in the fastest and simplest way.
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 1 year ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@
 
 ### ⭐ Recent Stars
 
-- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (5 months ago)
+- [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (6 months ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (7 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 year ago)
 
