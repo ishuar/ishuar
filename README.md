@@ -4,7 +4,7 @@
 
 ## Hi there I am [Ishan](https://ishan.learndevops.in/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Senior DevOps Engineer @[AboutYou](https://corporate.aboutyou.de/en/)
+#### Senior DevOps Engineer @[Storyblok](https://www.storyblok.com/)
 
 ### Platform & Tools ⚙️
 
