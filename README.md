@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Feat: aws service scanner v1](https://github.com/ishuar/aws-service-scanner/pull/1) on [ishuar/aws-service-scanner](https://github.com/ishuar/aws-service-scanner) (today)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 - [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
-- [Fixed Skills Section in Dark Mode with differnent color scheme](https://github.com/ishuar/ishuar.github.io/pull/20) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (5 months ago)
 
 ### ⭐ Recent Stars
 
