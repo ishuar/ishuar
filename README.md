@@ -47,7 +47,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Feat: aws service scanner v1](https://github.com/ishuar/aws-service-scanner/pull/1) on [ishuar/aws-service-scanner](https://github.com/ishuar/aws-service-scanner) (1 day ago)
+- [feat: first version of aws-scanner](https://github.com/ishuar/aws-service-scanner/pull/1) on [ishuar/aws-service-scanner](https://github.com/ishuar/aws-service-scanner) (1 day ago)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 - [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 
