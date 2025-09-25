@@ -36,18 +36,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan AWS resources on the basis of tags (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan AWS resources on the basis of tags (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) - A comprehensive roadmap for anyone starting or refining their DevOps journey—from beginner to pro (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.15](https://github.com/cilium/cilium/releases/tag/v1.16.15), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.15](https://github.com/cilium/cilium/releases/tag/v1.16.15), 2 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 years ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [feat: first version of aws-scanner](https://github.com/ishuar/aws-resource-scanner/pull/1) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (1 day ago)
+- [feat: first version of aws-scanner](https://github.com/ishuar/aws-resource-scanner/pull/1) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 - [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 
