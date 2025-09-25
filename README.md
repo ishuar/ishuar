@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: used `ResourceGroupsTaggingAPI` for tags filter and improved cli](https://github.com/ishuar/aws-resource-scanner/pull/2) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
 - [feat: first version of aws-scanner](https://github.com/ishuar/aws-resource-scanner/pull/1) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
 - [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
-- [AWS: added beginner friendly project to practice aws learnings](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/15) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
 
 ### ⭐ Recent Stars
 
