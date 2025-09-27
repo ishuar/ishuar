@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan AWS resources on the basis of tags (1 day ago)
+- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan AWS resources on the basis of tags (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) - A comprehensive roadmap for anyone starting or refining their DevOps journey—from beginner to pro (4 months ago)
 
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [feat: used `ResourceGroupsTaggingAPI` for tags filter and improved cli with cosmetics](https://github.com/ishuar/aws-resource-scanner/pull/2) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
-- [feat: first version of aws-scanner](https://github.com/ishuar/aws-resource-scanner/pull/1) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 days ago)
-- [Public Cloud: Added beginner Friendly project for hads on practice](https://github.com/ishuar/zero-to-hero-devops-roadmap/pull/16) on [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) (4 months ago)
+- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [feat: added comprehensive logging module ](https://github.com/ishuar/aws-resource-scanner/pull/4) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [docs: added relevant docs to the tool](https://github.com/ishuar/aws-resource-scanner/pull/3) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
 
 ### ⭐ Recent Stars
 
