@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (1 day ago)
+- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (2 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/zero-to-hero-devops-roadmap](https://github.com/ishuar/zero-to-hero-devops-roadmap) - A comprehensive roadmap for anyone starting or refining their DevOps journey—from beginner to pro (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.15](https://github.com/cilium/cilium/releases/tag/v1.16.15), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.16.15](https://github.com/cilium/cilium/releases/tag/v1.16.15), 1 week ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 years ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
-- [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (1 day ago)
-- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
-- [feat: added comprehensive logging module ](https://github.com/ishuar/aws-resource-scanner/pull/4) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
+- [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 days ago)
+- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (3 days ago)
+- [feat: added comprehensive logging module ](https://github.com/ishuar/aws-resource-scanner/pull/4) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (3 days ago)
 
 ### ⭐ Recent Stars
 
