@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.2), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-pre.2](https://github.com/cilium/cilium/releases/tag/v1.19.0-pre.2), 4 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 years ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
@@ -54,7 +54,7 @@
 ### ⭐ Recent Stars
 
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (9 months ago)
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (10 months ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (11 months ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 year ago)
 
 ### 👯 Check out some of my recent followers
