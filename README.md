@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.4](https://github.com/cilium/cilium/releases/tag/v1.18.4), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) ([v0.4.0](https://github.com/ishuar/terraform-azure-workload-identity/releases/tag/v0.4.0), 2 years ago) - Terraform module for creating workload identity in azure.
 
 ### 🔨 My recent Pull Requests
 
 - [feat: added autoscaling results with tags based filters](https://github.com/ishuar/aws-resource-scanner/pull/8) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (1 month ago)
 - [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (1 month ago)
-- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (1 month ago)
+- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (2 months ago)
 
 ### ⭐ Recent Stars
 
