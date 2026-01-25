@@ -49,7 +49,7 @@
 
 - [feat: added autoscaling results with tags based filters](https://github.com/ishuar/aws-resource-scanner/pull/8) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (3 months ago)
 - [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (3 months ago)
-- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (3 months ago)
+- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 
 ### ⭐ Recent Stars
 
