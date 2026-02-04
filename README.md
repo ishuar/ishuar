@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0-rc.1](https://github.com/cilium/cilium/releases/tag/v1.19.0-rc.1), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), today) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
