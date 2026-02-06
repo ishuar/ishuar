@@ -36,13 +36,13 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (4 weeks ago)
+- [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 - [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (4 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 1 day ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 2 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
