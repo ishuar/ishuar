@@ -42,13 +42,13 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 3 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
+- [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat: added autoscaling results with tags based filters](https://github.com/ishuar/aws-resource-scanner/pull/8) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 - [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
-- [chore: removed un-used tests](https://github.com/ishuar/aws-resource-scanner/pull/5) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 
 ### ⭐ Recent Stars
 
