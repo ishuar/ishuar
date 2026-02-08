@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [refactor: Implement consistent table width for professional CLI output](https://github.com/ishuar/tfskel/pull/2) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [feat: added autoscaling results with tags based filters](https://github.com/ishuar/aws-resource-scanner/pull/8) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
-- [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 
 ### ⭐ Recent Stars
 
