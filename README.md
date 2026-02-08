@@ -36,17 +36,17 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) -  (today)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) -  (1 day ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 4 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [feat: added autoscaling results with tags based filters](https://github.com/ishuar/aws-resource-scanner/pull/8) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 - [docs: updated root readme &amp; ui/ux change for progress display](https://github.com/ishuar/aws-resource-scanner/pull/6) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (4 months ago)
 
