@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) -  (1 day ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) -  (today)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 5 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.0](https://github.com/cilium/cilium/releases/tag/v1.19.0), 6 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [feat: Add drift subcommands for comprehensive infrastructure analysis](https://github.com/ishuar/tfskel/pull/3) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [refactor: Implement consistent table width for professional CLI output](https://github.com/ishuar/tfskel/pull/2) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [feat: Added drift subcommands for comprehensive infrastructure analysis](https://github.com/ishuar/tfskel/pull/3) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [refactor: Implement consistent table width for professional CLI output](https://github.com/ishuar/tfskel/pull/2) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [ci: updated test workflow for macos with appropriate triggers](https://github.com/ishuar/tfskel/pull/1) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
