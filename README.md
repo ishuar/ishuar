@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (today)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (1 day ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [docs: updated readme with tfskel assets (gifs)](https://github.com/ishuar/tfskel/pull/5) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [refactor: stricter go linting ](https://github.com/ishuar/tfskel/pull/4) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat: Added drift subcommands for comprehensive infrastructure analysis](https://github.com/ishuar/tfskel/pull/3) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [docs: updated readme with tfskel assets (gifs)](https://github.com/ishuar/tfskel/pull/5) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [refactor: stricter go linting ](https://github.com/ishuar/tfskel/pull/4) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat: Added drift subcommands for comprehensive infrastructure analysis](https://github.com/ishuar/tfskel/pull/3) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
 
 ### ⭐ Recent Stars
 
