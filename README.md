@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci(release): use release-please for releases](https://github.com/ishuar/tfskel/pull/8) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [docs: added tfskel generate gif in root readme](https://github.com/ishuar/tfskel/pull/7) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(generate): added github workflows generation](https://github.com/ishuar/tfskel/pull/6) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [docs: updated readme with tfskel assets (gifs)](https://github.com/ishuar/tfskel/pull/5) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
