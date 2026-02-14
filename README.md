@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (today)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (1 day ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), today) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 1 day ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [ci(release): use release-please for releases](https://github.com/ishuar/tfskel/pull/8) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [docs: added tfskel generate gif in root readme](https://github.com/ishuar/tfskel/pull/7) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(generate): added github workflows generation](https://github.com/ishuar/tfskel/pull/6) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [ci(release): use release-please for releases](https://github.com/ishuar/tfskel/pull/8) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [docs: added tfskel generate gif in root readme](https://github.com/ishuar/tfskel/pull/7) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat(generate): added github workflows generation](https://github.com/ishuar/tfskel/pull/6) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
