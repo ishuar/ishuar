@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat!(config): namespaced configs for generate block](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [docs: added docs , updated example config and changelog showing unreleased changes before 0.0.1](https://github.com/ishuar/tfskel/pull/11) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [chore: reset the version to 0.0.0 so that release please can release accordingly](https://github.com/ishuar/tfskel/pull/10) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [ci(release): use release-please for releases](https://github.com/ishuar/tfskel/pull/8) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
