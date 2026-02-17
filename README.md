@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.0.1](https://github.com/ishuar/tfskel/releases/tag/v0.0.1), 1 day ago) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 3 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.1.0](https://github.com/ishuar/tfskel/releases/tag/v0.1.0), today) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 4 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [docs: added docs , updated example config and changelog showing unreleased changes before 0.0.1](https://github.com/ishuar/tfskel/pull/11) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [chore: reset the version to 0.0.0 so that release please can release accordingly](https://github.com/ishuar/tfskel/pull/10) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [chore: Create review instructions for Copilot role](https://github.com/ishuar/tfskel/pull/13) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [docs: added docs , updated example config and changelog showing unreleased changes before 0.0.1](https://github.com/ishuar/tfskel/pull/11) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
