@@ -42,8 +42,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.1.1](https://github.com/ishuar/tfskel/releases/tag/v0.1.1), today) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 4 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
