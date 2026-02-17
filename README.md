@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.1.0](https://github.com/ishuar/tfskel/releases/tag/v0.1.0), today) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.0.1](https://github.com/ishuar/tfskel/releases/tag/v0.0.1), 2 days ago) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 4 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
