@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.0.1](https://github.com/ishuar/tfskel/releases/tag/v0.0.1), 2 days ago) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.1.1](https://github.com/ishuar/tfskel/releases/tag/v0.1.1), today) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.18.7](https://github.com/cilium/cilium/releases/tag/v1.18.7), 4 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
+- [fix: version output ](https://github.com/ishuar/tfskel/pull/16) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [chore: Create review instructions for Copilot role](https://github.com/ishuar/tfskel/pull/13) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [docs: added docs , updated example config and changelog showing unreleased changes before 0.0.1](https://github.com/ishuar/tfskel/pull/11) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
