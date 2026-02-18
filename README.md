@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), today) - eBPF-based Networking, Security, and Observability
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.1.1](https://github.com/ishuar/tfskel/releases/tag/v0.1.1), today) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 day ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [fix: version output ](https://github.com/ishuar/tfskel/pull/16) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [chore: Create review instructions for Copilot role](https://github.com/ishuar/tfskel/pull/13) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [fix: version output ](https://github.com/ishuar/tfskel/pull/16) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [chore: Create review instructions for Copilot role](https://github.com/ishuar/tfskel/pull/13) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
