@@ -48,7 +48,7 @@
 ### 🔨 My recent Pull Requests
 
 - [ci: create go release with release please action](https://github.com/ishuar/tfskel/pull/21) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat!(generate): explicit allow all files as templates with .tmpl extension](https://github.com/ishuar/tfskel/pull/20) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(generate)!: explicit allow all files as templates with .tmpl extension](https://github.com/ishuar/tfskel/pull/20) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [fix: version output ](https://github.com/ishuar/tfskel/pull/16) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
