@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (1 day ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (today)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: create go release with release please action](https://github.com/ishuar/tfskel/pull/21) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat!(generate): explicit allow all files as templates with .tmpl extension](https://github.com/ishuar/tfskel/pull/20) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [fix: version output ](https://github.com/ishuar/tfskel/pull/16) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [chore: Create review instructions for Copilot role](https://github.com/ishuar/tfskel/pull/13) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [feat!(generate): namespaced configs for generate block &amp; fixed metadata based default_tags](https://github.com/ishuar/tfskel/pull/12) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
