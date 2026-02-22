@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (1 day ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (2 days ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.0](https://github.com/ishuar/tfskel/releases/tag/v0.2.0), 2 days ago) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.0](https://github.com/ishuar/tfskel/releases/tag/v0.2.0), 3 days ago) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 5 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [ci: added Manual Release workflow to attach binaries &amp; upgrade deps ](https://github.com/ishuar/tfskel/pull/29) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [fix: disable draft release in release please](https://github.com/ishuar/tfskel/pull/27) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [ci: improve release notes](https://github.com/ishuar/tfskel/pull/25) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [ci: added Manual Release workflow to attach binaries &amp; upgrade deps ](https://github.com/ishuar/tfskel/pull/29) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [fix: disable draft release in release please](https://github.com/ishuar/tfskel/pull/27) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [ci: improve release notes](https://github.com/ishuar/tfskel/pull/25) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
