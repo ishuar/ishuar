@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding for real-world teams. No vendor lock-in, just better project structure (3 days ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
