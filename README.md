@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - Opinionated Terraform scaffolding. No vendor lock-in, just better project structure (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.0](https://github.com/ishuar/tfskel/releases/tag/v0.2.0), 5 days ago) - Opinionated Terraform scaffolding. No vendor lock-in, just better project structure
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.1](https://github.com/ishuar/tfskel/releases/tag/v0.2.1), today) - Opinionated Terraform scaffolding. No vendor lock-in, just better project structure
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [fix(generate): accept nested value for app-dir](https://github.com/ishuar/tfskel/pull/32) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [docs: updated logo and root readme](https://github.com/ishuar/tfskel/pull/31) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: added Manual Release workflow to attach binaries &amp; upgrade deps ](https://github.com/ishuar/tfskel/pull/29) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
+- [docs: update README with complete CLI flags, commands, and configuration reference](https://github.com/ishuar/tfskel/pull/33) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [fix(generate): accept nested value for app-dir](https://github.com/ishuar/tfskel/pull/32) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [docs: updated logo and root readme](https://github.com/ishuar/tfskel/pull/31) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
