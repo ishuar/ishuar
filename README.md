@@ -47,7 +47,7 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix(help): clean the global help cmd output](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [fix(help): improve help outputs for all commands](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [ci: trigger tests only on go and test gh workflow files](https://github.com/ishuar/tfskel/pull/34) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [docs: update README with complete CLI flags, commands, and configuration reference](https://github.com/ishuar/tfskel/pull/33) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
