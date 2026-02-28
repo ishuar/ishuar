@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (today)
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
-- [ishuar/docker-images](https://github.com/ishuar/docker-images) - Custom docker images useful for demo or wrappers (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (today)
 - [fix(help): improve help outputs for all commands](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 - [ci: trigger tests only on go and test gh workflow files](https://github.com/ishuar/tfskel/pull/34) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [docs: update README with complete CLI flags, commands, and configuration reference](https://github.com/ishuar/tfskel/pull/33) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
