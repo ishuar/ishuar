@@ -36,24 +36,24 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 day ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.2](https://github.com/ishuar/tfskel/releases/tag/v0.2.2), 2 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.2](https://github.com/ishuar/tfskel/releases/tag/v0.2.2), 3 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.19.1](https://github.com/cilium/cilium/releases/tag/v1.19.1), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (1 day ago)
-- [fix(help): improve help outputs for all commands](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [ci: trigger tests only on go and test gh workflow files](https://github.com/ishuar/tfskel/pull/34) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [feat(template)!: working terraform github reusable workflow with renaming enable_apply_on_pr input to auto_apply](https://github.com/ishuar/tfskel/pull/37) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (2 days ago)
+- [fix(help): improve help outputs for all commands](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 days ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 year ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (1 year ago)
 
