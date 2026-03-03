@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(generate)!: require 12-digit AWS account ID and explicit S3 bucket name](https://github.com/ishuar/tfskel/pull/39) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(template)!: rename enable_apply_on_pr input to auto_apply and fixed reusable terraform plan-apply workflow](https://github.com/ishuar/tfskel/pull/37) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (3 days ago)
-- [fix(help): improve help outputs for all commands](https://github.com/ishuar/tfskel/pull/35) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
 
 ### ⭐ Recent Stars
 
