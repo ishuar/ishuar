@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
-- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (4 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 2 days ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.2.2](https://github.com/ishuar/tfskel/releases/tag/v0.2.2), 5 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.3.0](https://github.com/ishuar/tfskel/releases/tag/v0.3.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 3 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [fix(generate)!: require 12-digit AWS account ID and explicit S3 bucket name](https://github.com/ishuar/tfskel/pull/39) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [feat(template)!: rename enable_apply_on_pr input to auto_apply and fixed reusable terraform plan-apply workflow](https://github.com/ishuar/tfskel/pull/37) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (4 days ago)
+- [fix(generate)!: require 12-digit AWS account ID and explicit S3 bucket name](https://github.com/ishuar/tfskel/pull/39) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [feat(template)!: rename enable_apply_on_pr input to auto_apply and fixed reusable terraform plan-apply workflow](https://github.com/ishuar/tfskel/pull/37) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [tfskel demo with init and first app-dir](https://github.com/ishuar/tfskel-demo/pull/1) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (5 days ago)
 
 ### ⭐ Recent Stars
 
