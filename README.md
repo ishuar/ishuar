@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(cmd)!: rename generate cmd to add cmd](https://github.com/ishuar/tfskel/pull/42) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [ci: use github style release notes](https://github.com/ishuar/tfskel/pull/40) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [fix(generate)!: require 12-digit AWS account ID and explicit S3 bucket name](https://github.com/ishuar/tfskel/pull/39) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
-- [feat(template)!: rename enable_apply_on_pr input to auto_apply and fixed reusable terraform plan-apply workflow](https://github.com/ishuar/tfskel/pull/37) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 
 ### ⭐ Recent Stars
 
