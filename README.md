@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.3.0](https://github.com/ishuar/tfskel/releases/tag/v0.3.0), 6 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.3.0](https://github.com/ishuar/tfskel/releases/tag/v0.3.0), 1 week ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [feat(cmd)!: rename generate cmd to add cmd](https://github.com/ishuar/tfskel/pull/42) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: use github style release notes](https://github.com/ishuar/tfskel/pull/40) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [fix(generate)!: require 12-digit AWS account ID and explicit S3 bucket name](https://github.com/ishuar/tfskel/pull/39) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
+- [feat(cmd)!: rename generate cmd to scaffold cmd](https://github.com/ishuar/tfskel/pull/43) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(cmd)!: rename generate cmd to add cmd](https://github.com/ishuar/tfskel/pull/42) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [ci: use github style release notes](https://github.com/ishuar/tfskel/pull/40) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
