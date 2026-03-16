@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.3.0](https://github.com/ishuar/tfskel/releases/tag/v0.3.0), 1 week ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 1 week ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [feat(cmd)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [docs: updated scaffold cmd docs](https://github.com/ishuar/tfskel/pull/44) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [feat(cmd)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [docs: updated scaffold cmd docs](https://github.com/ishuar/tfskel/pull/44) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
