@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [feat(cmd)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [docs: updated scaffold cmd docs](https://github.com/ishuar/tfskel/pull/44) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [feat(drift)!: split drift command into diff and plan commands](https://github.com/ishuar/tfskel/pull/47) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
+- [feat(drift)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
 
 ### ⭐ Recent Stars
 
