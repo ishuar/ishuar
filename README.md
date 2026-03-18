@@ -36,8 +36,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -47,13 +47,13 @@
 
 ### 🔨 My recent Pull Requests
 
-- [feat(drift)!: split drift command into diff and plan commands](https://github.com/ishuar/tfskel/pull/47) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
-- [feat(drift)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
+- [feat(drift)!: split drift command into diff and plan commands](https://github.com/ishuar/tfskel/pull/47) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
+- [feat(drift)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 weeks ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 year ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (1 year ago)
 
