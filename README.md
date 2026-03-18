@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.4.0](https://github.com/ishuar/tfskel/releases/tag/v0.4.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.5.0](https://github.com/ishuar/tfskel/releases/tag/v0.5.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
+- [fix(format): force lipgloss to render colors even in non-TTY environments](https://github.com/ishuar/tfskel/pull/50) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(plan)!: rename tfskel plan review to tfskel review plan](https://github.com/ishuar/tfskel/pull/48) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(drift)!: split drift command into diff and plan commands](https://github.com/ishuar/tfskel/pull/47) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [ci: switch back to default release notes for verbose changelog](https://github.com/ishuar/tfskel/pull/46) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
-- [feat(drift)!: removed all subcommand from drift command](https://github.com/ishuar/tfskel/pull/45) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
 
 ### ⭐ Recent Stars
 
