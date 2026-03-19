@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [test(cmd/diff): added tests for config subcommand in diff command](https://github.com/ishuar/tfskel/pull/54) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [fix(template): fixed cache, sshKey for private modules and tfskel usage in the re-usable tf workflow](https://github.com/ishuar/tfskel/pull/53) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [chore: simplified pull request with scope info](https://github.com/ishuar/tfskel/pull/52) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [fix(format): force lipgloss to render colors even in non-TTY environments](https://github.com/ishuar/tfskel/pull/50) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [feat(plan)!: rename tfskel plan review to tfskel review plan](https://github.com/ishuar/tfskel/pull/48) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
