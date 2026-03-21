@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
-- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (5 days ago)
+- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.5.2](https://github.com/ishuar/tfskel/releases/tag/v0.5.2), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.5.2](https://github.com/ishuar/tfskel/releases/tag/v0.5.2), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.0](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.0), 2 weeks ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [docs: added tfskel-demo repo reference](https://github.com/ishuar/tfskel/pull/57) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [fix(template): added missing permissions to caller terraform github workflow template](https://github.com/ishuar/tfskel/pull/55) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [tfskel demo: Multi-Customer Deployment Using Dedicated Root Modules](https://github.com/ishuar/tfskel-demo/pull/2) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (today)
+- [test detect changes ](https://github.com/ishuar/tfskel-demo/pull/3) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (today)
+- [docs: added tfskel-demo repo reference](https://github.com/ishuar/tfskel/pull/57) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [fix(template): added missing permissions to caller terraform github workflow template](https://github.com/ishuar/tfskel/pull/55) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
