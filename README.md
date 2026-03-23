@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(templates)!: consolidated github workflows from per app-dir to per env using detect changes](https://github.com/ishuar/tfskel/pull/58) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [test detect changes ](https://github.com/ishuar/tfskel-demo/pull/3) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (2 days ago)
 - [docs: added tfskel-demo repo reference](https://github.com/ishuar/tfskel/pull/57) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [fix(template): added missing permissions to caller terraform github workflow template](https://github.com/ishuar/tfskel/pull/55) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
