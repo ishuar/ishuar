@@ -36,14 +36,14 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.6.0](https://github.com/ishuar/tfskel/releases/tag/v0.6.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), 1 day ago) - eBPF-based Networking, Security, and Observability
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.5.2](https://github.com/ishuar/tfskel/releases/tag/v0.5.2), 4 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
