@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (3 weeks ago)
 
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Upgrade tfskel scafolded files](https://github.com/ishuar/tfskel/pull/60) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [refactor(internal)!: restructure packages following Go naming conventions](https://github.com/ishuar/tfskel/pull/62) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(generator): upgrade tfskel rendered files using source markers using --upgrade flag with init and scaffold cmd](https://github.com/ishuar/tfskel/pull/60) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(cmd/scaffold)!: moved static gh workflows creation to init from scaffold cmd and added workflows subcommand for consolidated per env gh workflow](https://github.com/ishuar/tfskel/pull/58) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [test detect changes ](https://github.com/ishuar/tfskel-demo/pull/3) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (4 days ago)
 
 ### ⭐ Recent Stars
 
