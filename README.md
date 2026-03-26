@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.6.0](https://github.com/ishuar/tfskel/releases/tag/v0.6.0), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), 2 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.6.0](https://github.com/ishuar/tfskel/releases/tag/v0.6.0), 2 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), 3 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [refactor(internal)!: restructure packages following Go naming conventions](https://github.com/ishuar/tfskel/pull/62) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(generator): upgrade tfskel rendered files using source markers using --upgrade flag with init and scaffold cmd](https://github.com/ishuar/tfskel/pull/60) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(cmd/scaffold)!: moved static gh workflows creation to init from scaffold cmd and added workflows subcommand for consolidated per env gh workflow](https://github.com/ishuar/tfskel/pull/58) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [feat(cmd): add --dry-run flag and improve logging with config awareness](https://github.com/ishuar/tfskel/pull/63) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [refactor(internal)!: restructure packages following Go naming conventions](https://github.com/ishuar/tfskel/pull/62) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat(generator): upgrade tfskel rendered files using source markers using --upgrade flag with init and scaffold cmd](https://github.com/ishuar/tfskel/pull/60) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
