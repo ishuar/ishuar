@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [build: added an installation script to avoid go dependency](https://github.com/ishuar/tfskel/pull/66) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(review/plan): include terraform output changes in the plan review](https://github.com/ishuar/tfskel/pull/65) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [refactor(cmd/init): use initRunner struct for dry-run and fs abstraction](https://github.com/ishuar/tfskel/pull/64) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(cmd): add --dry-run flag and improve logging with config awareness](https://github.com/ishuar/tfskel/pull/63) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
