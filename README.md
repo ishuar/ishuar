@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [refactor(cmd/init): use initRunner struct for dry-run and fs abstraction](https://github.com/ishuar/tfskel/pull/64) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(cmd): add --dry-run flag and improve logging with config awareness](https://github.com/ishuar/tfskel/pull/63) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [refactor(internal)!: restructure packages following Go naming conventions](https://github.com/ishuar/tfskel/pull/62) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [feat(generator): upgrade tfskel rendered files using source markers using --upgrade flag with init and scaffold cmd](https://github.com/ishuar/tfskel/pull/60) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
