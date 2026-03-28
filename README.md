@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(plan): show total resource count when top-N truncates results](https://github.com/ishuar/tfskel/pull/75) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [refactor(cmd): move SilenceUsage to command structs and centralize flag error handling](https://github.com/ishuar/tfskel/pull/73) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [test(template): Restructure renderer tests into subtests with receiver-style naming](https://github.com/ishuar/tfskel/pull/72) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(plan): add severity and action filters for plan review](https://github.com/ishuar/tfskel/pull/71) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
