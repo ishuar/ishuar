@@ -36,20 +36,20 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
-- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (4 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
+- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.7.2](https://github.com/ishuar/tfskel/releases/tag/v0.7.2), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), 6 days ago) - eBPF-based Networking, Security, and Observability
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.7.2](https://github.com/ishuar/tfskel/releases/tag/v0.7.2), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.17.14](https://github.com/cilium/cilium/releases/tag/v1.17.14), 1 week ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
-- [feat(plan): show total resource count when top-N truncates results](https://github.com/ishuar/tfskel/pull/75) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [refactor(cmd): move SilenceUsage to command structs and centralize flag error handling](https://github.com/ishuar/tfskel/pull/73) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [test(template): Restructure renderer tests into subtests with receiver-style naming](https://github.com/ishuar/tfskel/pull/72) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat(toolcheck): add mise-aware pre-flight checks with actionable shell hints](https://github.com/ishuar/tfskel/pull/76) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat(plan): show total resource count when top-N truncates results](https://github.com/ishuar/tfskel/pull/75) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [refactor(cmd): move SilenceUsage to command structs and centralize flag error handling](https://github.com/ishuar/tfskel/pull/73) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
