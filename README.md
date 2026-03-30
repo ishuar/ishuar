@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: fix build binary test by enabling FORCE_COLOR](https://github.com/ishuar/tfskel/pull/78) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(toolcheck): add mise-aware pre-flight checks with actionable shell hints](https://github.com/ishuar/tfskel/pull/76) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [feat(plan): show total resource count when top-N truncates results](https://github.com/ishuar/tfskel/pull/75) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [refactor(cmd): move SilenceUsage to command structs and centralize flag error handling](https://github.com/ishuar/tfskel/pull/73) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
 
 ### ⭐ Recent Stars
 
