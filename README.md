@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(cmd)!: replace diff config with validate command](https://github.com/ishuar/tfskel/pull/79) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [ci: fix build binary test by enabling FORCE_COLOR](https://github.com/ishuar/tfskel/pull/78) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 - [feat(toolcheck): add mise-aware pre-flight checks with actionable shell hints](https://github.com/ishuar/tfskel/pull/76) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
-- [feat(plan): show total resource count when top-N truncates results](https://github.com/ishuar/tfskel/pull/75) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
