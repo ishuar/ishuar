@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (6 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 4 days ago) - eBPF-based Networking, Security, and Observability
+- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 5 days ago) - eBPF-based Networking, Security, and Observability
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.7.2](https://github.com/ishuar/tfskel/releases/tag/v0.7.2), 1 week ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [feat(cmd)!: replace diff config with validate command](https://github.com/ishuar/tfskel/pull/79) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
-- [ci: fix build binary test by enabling FORCE_COLOR](https://github.com/ishuar/tfskel/pull/78) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (6 days ago)
+- [feat(cmd)!: replace diff config with validate command](https://github.com/ishuar/tfskel/pull/79) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (6 days ago)
+- [ci: fix build binary test by enabling FORCE_COLOR](https://github.com/ishuar/tfskel/pull/78) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 - [feat(toolcheck): add mise-aware pre-flight checks with actionable shell hints](https://github.com/ishuar/tfskel/pull/76) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 
 ### ⭐ Recent Stars
