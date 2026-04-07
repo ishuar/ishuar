@@ -43,7 +43,6 @@
 ### 🔭 Latest releases I've contributed to
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.0](https://github.com/ishuar/tfskel/releases/tag/v0.8.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
-- [cilium/cilium](https://github.com/cilium/cilium) ([v1.20.0-pre.1](https://github.com/cilium/cilium/releases/tag/v1.20.0-pre.1), 6 days ago) - eBPF-based Networking, Security, and Observability
 
 ### 🔨 My recent Pull Requests
 
