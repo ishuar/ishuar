@@ -36,18 +36,18 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 week ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.0](https://github.com/ishuar/tfskel/releases/tag/v0.8.0), 5 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.0](https://github.com/ishuar/tfskel/releases/tag/v0.8.0), 6 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [feat(cmd): add --upgrade-all and --skip flags to scaffold command](https://github.com/ishuar/tfskel/pull/81) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
-- [docs: improve installation section readability in README](https://github.com/ishuar/tfskel/pull/80) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
+- [feat(cmd): add --upgrade-all and --skip flags to scaffold command](https://github.com/ishuar/tfskel/pull/81) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (6 days ago)
+- [docs: improve installation section readability in README](https://github.com/ishuar/tfskel/pull/80) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (6 days ago)
 - [feat(cmd)!: replace diff config with validate command](https://github.com/ishuar/tfskel/pull/79) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 
 ### ⭐ Recent Stars
