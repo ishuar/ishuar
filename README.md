@@ -37,18 +37,18 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.1](https://github.com/ishuar/tfskel/releases/tag/v0.8.1), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.1](https://github.com/ishuar/tfskel/releases/tag/v0.8.1), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [ci: add commit-push-pr skill](https://github.com/ishuar/tfskel/pull/87) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [chore(cmd): remove outdated breaking change note from validate help](https://github.com/ishuar/tfskel/pull/86) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(cmd): add debug log when workflow creation is skipped in init](https://github.com/ishuar/tfskel/pull/85) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [ci: add fail-fast skill](https://github.com/ishuar/tfskel/pull/89) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(cmd): add project context header to validate report](https://github.com/ishuar/tfskel/pull/88) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [ci: add commit-push-pr skill](https://github.com/ishuar/tfskel/pull/87) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
