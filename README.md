@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [docs: align commit scopes with user-facing commands](https://github.com/ishuar/tfskel/pull/91) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [ci: add fail-fast skill](https://github.com/ishuar/tfskel/pull/89) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(cmd): add project context header to validate report](https://github.com/ishuar/tfskel/pull/88) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: add commit-push-pr skill](https://github.com/ishuar/tfskel/pull/87) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [feat(validate): add project context header to validate report](https://github.com/ishuar/tfskel/pull/88) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
