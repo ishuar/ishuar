@@ -37,18 +37,18 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.1](https://github.com/ishuar/tfskel/releases/tag/v0.8.1), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.1](https://github.com/ishuar/tfskel/releases/tag/v0.8.1), 2 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [docs: align commit scopes with user-facing commands](https://github.com/ishuar/tfskel/pull/91) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: add fail-fast skill](https://github.com/ishuar/tfskel/pull/89) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(validate): add project context header to validate report](https://github.com/ishuar/tfskel/pull/88) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [docs: add guidance against extracting trivial helpers](https://github.com/ishuar/tfskel/pull/94) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [refactor(init): extract bootstrap logic into internal/bootstrap package](https://github.com/ishuar/tfskel/pull/93) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat: add rich version command with build-origin detection](https://github.com/ishuar/tfskel/pull/92) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
