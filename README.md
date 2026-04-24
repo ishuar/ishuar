@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.2](https://github.com/ishuar/tfskel/releases/tag/v0.8.2), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.2](https://github.com/ishuar/tfskel/releases/tag/v0.8.2), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [fix(init): only install pre-commit hooks at git repo root](https://github.com/ishuar/tfskel/pull/96) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [refactor: migrate cmd/ to factory-function pattern and tighten lint config](https://github.com/ishuar/tfskel/pull/95) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [docs: add guidance against extracting trivial helpers](https://github.com/ishuar/tfskel/pull/94) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (6 days ago)
+- [fix(init): only install pre-commit hooks at git repo root](https://github.com/ishuar/tfskel/pull/96) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [refactor: migrate cmd/ to factory-function pattern and tighten lint config](https://github.com/ishuar/tfskel/pull/95) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [docs: add guidance against extracting trivial helpers](https://github.com/ishuar/tfskel/pull/94) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 
 ### ⭐ Recent Stars
 
