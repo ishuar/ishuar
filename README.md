@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(scaffold): prevent false content drift on .tf files after terraform fmt](https://github.com/ishuar/tfskel/pull/98) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [fix(scaffold): use HTML comments for markdown metadata markers](https://github.com/ishuar/tfskel/pull/97) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [fix(init): only install pre-commit hooks at git repo root](https://github.com/ishuar/tfskel/pull/96) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [refactor: migrate cmd/ to factory-function pattern and tighten lint config](https://github.com/ishuar/tfskel/pull/95) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [docs: add guidance against extracting trivial helpers](https://github.com/ishuar/tfskel/pull/94) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 week ago)
 
 ### ⭐ Recent Stars
 
