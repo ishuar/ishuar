@@ -36,7 +36,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (6 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (1 month ago)
 
@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(scaffold): remove duplicate directory log that ignored existing dirs](https://github.com/ishuar/tfskel/pull/100) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [fix(scaffold): prevent false content drift on .tf files after terraform fmt](https://github.com/ishuar/tfskel/pull/98) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [fix(scaffold): use HTML comments for markdown metadata markers](https://github.com/ishuar/tfskel/pull/97) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [fix(init): only install pre-commit hooks at git repo root](https://github.com/ishuar/tfskel/pull/96) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
 
 ### ⭐ Recent Stars
 
