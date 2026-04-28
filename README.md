@@ -42,7 +42,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.2](https://github.com/ishuar/tfskel/releases/tag/v0.8.2), 5 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.3](https://github.com/ishuar/tfskel/releases/tag/v0.8.3), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
