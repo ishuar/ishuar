@@ -36,19 +36,19 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.3](https://github.com/ishuar/tfskel/releases/tag/v0.8.3), 1 day ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.3](https://github.com/ishuar/tfskel/releases/tag/v0.8.3), 2 days ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [build: extract version line via grep in install success message](https://github.com/ishuar/tfskel/pull/101) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [fix(scaffold): remove duplicate directory log that ignored existing dirs](https://github.com/ishuar/tfskel/pull/100) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
-- [fix(scaffold): prevent false content drift on .tf files after terraform fmt](https://github.com/ishuar/tfskel/pull/98) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 days ago)
+- [build: extract version line via grep in install success message](https://github.com/ishuar/tfskel/pull/101) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 days ago)
+- [fix(scaffold): remove duplicate directory log that ignored existing dirs](https://github.com/ishuar/tfskel/pull/100) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
+- [fix(scaffold): prevent false content drift on .tf files after terraform fmt](https://github.com/ishuar/tfskel/pull/98) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
 
 ### ⭐ Recent Stars
 
