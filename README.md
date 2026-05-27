@@ -37,18 +37,18 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 weeks ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 2 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [chore(scaffold): install tfskel via install.sh in reusable workflow](https://github.com/ishuar/tfskel/pull/104) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 weeks ago)
-- [feat(scaffold): add terraform_extra_secrets input to reusable workflow](https://github.com/ishuar/tfskel/pull/103) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 weeks ago)
-- [test: github workflow with dynamic secret](https://github.com/ishuar/tfskel-demo/pull/4) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (2 weeks ago)
+- [chore(scaffold): install tfskel via install.sh in reusable workflow](https://github.com/ishuar/tfskel/pull/104) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
+- [feat(scaffold): add terraform_extra_secrets input to reusable workflow](https://github.com/ishuar/tfskel/pull/103) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
+- [test: github workflow with dynamic secret](https://github.com/ishuar/tfskel-demo/pull/4) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
