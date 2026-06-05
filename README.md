@@ -36,25 +36,25 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 days ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 month ago)
 - [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 4 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 1 month ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [chore(scaffold): install tfskel via install.sh in reusable workflow](https://github.com/ishuar/tfskel/pull/104) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 weeks ago)
-- [feat(scaffold): add terraform_extra_secrets input to reusable workflow](https://github.com/ishuar/tfskel/pull/103) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 weeks ago)
-- [test: github workflow with dynamic secret](https://github.com/ishuar/tfskel-demo/pull/4) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (4 weeks ago)
+- [chore(scaffold): install tfskel via install.sh in reusable workflow](https://github.com/ishuar/tfskel/pull/104) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 month ago)
+- [feat(scaffold): add terraform_extra_secrets input to reusable workflow](https://github.com/ishuar/tfskel/pull/103) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 month ago)
+- [test: github workflow with dynamic secret](https://github.com/ishuar/tfskel-demo/pull/4) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (1 month ago)
 
 ### ⭐ Recent Stars
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (1 year ago)
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (1 year ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (2 years ago)
 
 ### 👯 Check out some of my recent followers
 
