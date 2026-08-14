@@ -58,9 +58,9 @@
 
 ### 👯 Check out some of my recent followers
 
+- [msdcitskills-stack](https://github.com/msdcitskills-stack)
 - [manupanand](https://github.com/manupanand)
 - [donaina](https://github.com/donaina)
-- [raswanthx7](https://github.com/raswanthx7)
 
 ---
 > 👯 I’m looking to collaborate on python and Go projects to improve my programming skills.
