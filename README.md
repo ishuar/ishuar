@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [ci: add release-please based release automation with PyPI publishing](https://github.com/ishuar/aws-resource-scanner/pull/19) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [fix: --compare now diffs like against like (and can actually run)](https://github.com/ishuar/aws-resource-scanner/pull/18) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
 - [fix: shared client config with adaptive retries; delete retry_with_backoff](https://github.com/ishuar/aws-resource-scanner/pull/17) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
-- [fix: paginate all VPC describe calls](https://github.com/ishuar/aws-resource-scanner/pull/16) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
-- [fix: fetch ELB listeners and rules once, paginated](https://github.com/ishuar/aws-resource-scanner/pull/15) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
 
 ### ⭐ Recent Stars
 
