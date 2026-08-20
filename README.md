@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [chore(scaffold): install tfskel via install.sh in reusable workflow](https://github.com/ishuar/tfskel/pull/104) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 months ago)
-- [feat(scaffold): add terraform_extra_secrets input to reusable workflow](https://github.com/ishuar/tfskel/pull/103) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 months ago)
-- [test: github workflow with dynamic secret](https://github.com/ishuar/tfskel-demo/pull/4) on [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) (3 months ago)
+- [test: foundational unit &#43; functional suite (91 tests, zero AWS credentials)](https://github.com/ishuar/aws-resource-scanner/pull/13) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [refactor(review): transport seam in AI clients &#43; streaming tests](https://github.com/ishuar/tfskel/pull/106) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [feat(review): AI narrative analysis with internal/review module](https://github.com/ishuar/tfskel/pull/105) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
