@@ -36,9 +36,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
+- [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (today)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 months ago)
-- [ishuar/tfskel-demo](https://github.com/ishuar/tfskel-demo) - demo repository with tfskel in action (5 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [test: foundational unit &#43; functional suite (91 tests, zero AWS credentials)](https://github.com/ishuar/aws-resource-scanner/pull/13) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
-- [refactor(review): transport seam in AI clients &#43; streaming tests](https://github.com/ishuar/tfskel/pull/106) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(review): AI narrative analysis with internal/review module](https://github.com/ishuar/tfskel/pull/105) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [fix: shared client config with adaptive retries; delete retry_with_backoff](https://github.com/ishuar/aws-resource-scanner/pull/17) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [fix: paginate all VPC describe calls](https://github.com/ishuar/aws-resource-scanner/pull/16) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
+- [fix: fetch ELB listeners and rules once, paginated](https://github.com/ishuar/aws-resource-scanner/pull/15) on [ishuar/aws-resource-scanner](https://github.com/ishuar/aws-resource-scanner) (today)
 
 ### ⭐ Recent Stars
 
