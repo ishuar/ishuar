@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [refactor: s3, ecs, elb and autoscaling scanners run on the shared scanning engine](https://github.com/ishuar/aws-resource-inventory/pull/31) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [refactor: ec2 and vpc scanners run on the shared scanning engine](https://github.com/ishuar/aws-resource-inventory/pull/29) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: shared scanning engine for pagination, concurrency and error handling](https://github.com/ishuar/aws-resource-inventory/pull/28) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: scan EFS file systems](https://github.com/ishuar/aws-resource-inventory/pull/35) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: scan RDS database instances, clusters and snapshots](https://github.com/ishuar/aws-resource-inventory/pull/34) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [refactor: typed Resource record replaces ad-hoc output dicts](https://github.com/ishuar/aws-resource-inventory/pull/33) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
