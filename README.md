@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: realign banner boxes broken by the rename](https://github.com/ishuar/aws-resource-inventory/pull/26) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [refactor!: consolidate CLI to aws-inventory and aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory/pull/25) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [ci: release-please automation with bootstrap-sha](https://github.com/ishuar/aws-resource-inventory/pull/24) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [refactor: s3, ecs, elb and autoscaling scanners run on the shared scanning engine](https://github.com/ishuar/aws-resource-inventory/pull/31) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [refactor: ec2 and vpc scanners run on the shared scanning engine](https://github.com/ishuar/aws-resource-inventory/pull/29) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: shared scanning engine for pagination, concurrency and error handling](https://github.com/ishuar/aws-resource-inventory/pull/28) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
