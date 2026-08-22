@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [docs: README matches the code — services, structure, commands](https://github.com/ishuar/aws-resource-inventory/pull/39) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: configuration panel shows the parallelism the scan actually uses](https://github.com/ishuar/aws-resource-inventory/pull/38) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: tag scans report S3 buckets as s3:bucket, not one type per bucket](https://github.com/ishuar/aws-resource-inventory/pull/37) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: tag scans flatten Auto Scaling resources correctly again](https://github.com/ishuar/aws-resource-inventory/pull/36) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: scan EFS file systems](https://github.com/ishuar/aws-resource-inventory/pull/35) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
