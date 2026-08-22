@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [refactor: everything ships inside one aws_resource_inventory package](https://github.com/ishuar/aws-resource-inventory/pull/47) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [docs: install from PyPI with uv or pipx](https://github.com/ishuar/aws-resource-inventory/pull/46) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: installed CLI starts — ship cli.py and aws_scanner.py in the wheel](https://github.com/ishuar/aws-resource-inventory/pull/45) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [ci: pin CI actions to commit SHAs](https://github.com/ishuar/aws-resource-inventory/pull/43) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
