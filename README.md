@@ -37,7 +37,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (today)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 day ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [feat: scan EFS file systems](https://github.com/ishuar/aws-resource-inventory/pull/35) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: scan RDS database instances, clusters and snapshots](https://github.com/ishuar/aws-resource-inventory/pull/34) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [refactor: typed Resource record replaces ad-hoc output dicts](https://github.com/ishuar/aws-resource-inventory/pull/33) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: scan EFS file systems](https://github.com/ishuar/aws-resource-inventory/pull/35) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [feat: scan RDS database instances, clusters and snapshots](https://github.com/ishuar/aws-resource-inventory/pull/34) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [refactor: typed Resource record replaces ad-hoc output dicts](https://github.com/ishuar/aws-resource-inventory/pull/33) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
