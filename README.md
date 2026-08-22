@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [chore: delete the completed Poetry migration guide](https://github.com/ishuar/aws-resource-inventory/pull/49) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: e2e-diff refuses refs it cannot honestly compare](https://github.com/ishuar/aws-resource-inventory/pull/48) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [refactor: everything ships inside one aws_resource_inventory package](https://github.com/ishuar/aws-resource-inventory/pull/47) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [docs: install from PyPI with uv or pipx](https://github.com/ishuar/aws-resource-inventory/pull/46) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
