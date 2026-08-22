@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix: e2e-diff refuses refs it cannot honestly compare](https://github.com/ishuar/aws-resource-inventory/pull/48) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [refactor: everything ships inside one aws_resource_inventory package](https://github.com/ishuar/aws-resource-inventory/pull/47) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [docs: install from PyPI with uv or pipx](https://github.com/ishuar/aws-resource-inventory/pull/46) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: installed CLI starts — ship cli.py and aws_scanner.py in the wheel](https://github.com/ishuar/aws-resource-inventory/pull/45) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
