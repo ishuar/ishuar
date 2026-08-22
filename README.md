@@ -42,13 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.0), today) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
+- [fix: release pipeline publishes to PyPI under immutable releases](https://github.com/ishuar/aws-resource-inventory/pull/42) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: tab-completion suggests service names for --service](https://github.com/ishuar/aws-resource-inventory/pull/41) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [docs: rewrite architecture and logging guides to match the current code](https://github.com/ishuar/aws-resource-inventory/pull/40) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [docs: README matches the code — services, structure, commands](https://github.com/ishuar/aws-resource-inventory/pull/39) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: configuration panel shows the parallelism the scan actually uses](https://github.com/ishuar/aws-resource-inventory/pull/38) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
