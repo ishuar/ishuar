@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix: tag scans report S3 buckets as s3:bucket, not one type per bucket](https://github.com/ishuar/aws-resource-inventory/pull/37) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: tag scans flatten Auto Scaling resources correctly again](https://github.com/ishuar/aws-resource-inventory/pull/36) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [feat: scan EFS file systems](https://github.com/ishuar/aws-resource-inventory/pull/35) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [feat: scan RDS database instances, clusters and snapshots](https://github.com/ishuar/aws-resource-inventory/pull/34) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [refactor: typed Resource record replaces ad-hoc output dicts](https://github.com/ishuar/aws-resource-inventory/pull/33) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
