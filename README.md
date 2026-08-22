@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: release pipeline publishes to PyPI under immutable releases](https://github.com/ishuar/aws-resource-inventory/pull/42) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: tab-completion suggests service names for --service](https://github.com/ishuar/aws-resource-inventory/pull/41) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [docs: rewrite architecture and logging guides to match the current code](https://github.com/ishuar/aws-resource-inventory/pull/40) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: installed CLI starts — ship cli.py and aws_scanner.py in the wheel](https://github.com/ishuar/aws-resource-inventory/pull/45) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [ci: pin CI actions to commit SHAs](https://github.com/ishuar/aws-resource-inventory/pull/43) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: release pipeline publishes to PyPI, and packaging is checked before release](https://github.com/ishuar/aws-resource-inventory/pull/42) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
