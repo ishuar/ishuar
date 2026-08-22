@@ -46,9 +46,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [docs: rewrite architecture and logging guides to match the current code](https://github.com/ishuar/aws-resource-inventory/pull/40) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [docs: README matches the code — services, structure, commands](https://github.com/ishuar/aws-resource-inventory/pull/39) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: configuration panel shows the parallelism the scan actually uses](https://github.com/ishuar/aws-resource-inventory/pull/38) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: tag scans report S3 buckets as s3:bucket, not one type per bucket](https://github.com/ishuar/aws-resource-inventory/pull/37) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
