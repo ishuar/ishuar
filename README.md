@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: the results table shows names and ids under an account header](https://github.com/ishuar/aws-resource-inventory/pull/59) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat!: scan output is a self-describing JSON document](https://github.com/ishuar/aws-resource-inventory/pull/58) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [feat!: resource names are real AWS names or null](https://github.com/ishuar/aws-resource-inventory/pull/57) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat!: resource types always start with the CLI service key](https://github.com/ishuar/aws-resource-inventory/pull/56) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat!: every resource has a real ID and a real ARN](https://github.com/ishuar/aws-resource-inventory/pull/55) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
