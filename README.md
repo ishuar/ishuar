@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat!: remove --format — the scan always writes JSON, with --output - for stdout](https://github.com/ishuar/aws-resource-inventory/pull/61) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: every scanning client gets its own botocore config](https://github.com/ishuar/aws-resource-inventory/pull/60) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [feat: the results table shows names and ids under an account header](https://github.com/ishuar/aws-resource-inventory/pull/59) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat!: scan output is a self-describing JSON document](https://github.com/ishuar/aws-resource-inventory/pull/58) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat!: resource names are real AWS names or null](https://github.com/ishuar/aws-resource-inventory/pull/57) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
