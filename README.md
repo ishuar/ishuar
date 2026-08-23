@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [test: pin the EFS scanner to the flattened-record contract](https://github.com/ishuar/aws-resource-inventory/pull/54) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [docs: ADR-0005 records the resource identity and output model](https://github.com/ishuar/aws-resource-inventory/pull/53) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [refactor: one definition of the scan-path choice](https://github.com/ishuar/aws-resource-inventory/pull/52) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: EC2 instance reports show the Name tag instead of only the instance id](https://github.com/ishuar/aws-resource-inventory/pull/51) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [chore: delete the completed Poetry migration guide](https://github.com/ishuar/aws-resource-inventory/pull/49) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
