@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [refactor: one definition of the scan-path choice](https://github.com/ishuar/aws-resource-inventory/pull/52) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: EC2 instance reports show the Name tag instead of only the instance id](https://github.com/ishuar/aws-resource-inventory/pull/51) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [chore: delete the completed Poetry migration guide](https://github.com/ishuar/aws-resource-inventory/pull/49) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [fix: e2e-diff refuses refs it cannot honestly compare](https://github.com/ishuar/aws-resource-inventory/pull/48) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [refactor: everything ships inside one aws_resource_inventory package](https://github.com/ishuar/aws-resource-inventory/pull/47) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
