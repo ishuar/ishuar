@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [docs: records.py states the name guarantee the code actually gives](https://github.com/ishuar/aws-resource-inventory/pull/64) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: the scan cache moves out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/62) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 - [feat!: remove --format — the scan always writes JSON, with --output - for stdout](https://github.com/ishuar/aws-resource-inventory/pull/61) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [fix: every scanning client gets its own botocore config](https://github.com/ishuar/aws-resource-inventory/pull/60) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
