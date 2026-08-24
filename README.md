@@ -37,23 +37,23 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (today)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 1 day ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 2 days ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [fix: the scan cache moves out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/62) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat!: remove --format — the scan always writes JSON, with --output - for stdout](https://github.com/ishuar/aws-resource-inventory/pull/61) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: every scanning client gets its own botocore config](https://github.com/ishuar/aws-resource-inventory/pull/60) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [fix: the scan cache moves out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/62) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [feat!: remove --format — the scan always writes JSON, with --output - for stdout](https://github.com/ishuar/aws-resource-inventory/pull/61) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [fix: every scanning client gets its own botocore config](https://github.com/ishuar/aws-resource-inventory/pull/60) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 months ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (6 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 years ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (2 years ago)
 
