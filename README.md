@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix: logging is configured only by the CLI, never as an import side effect](https://github.com/ishuar/aws-resource-inventory/pull/68) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix: e2e-diff.sh stops passing the --format flag that was removed](https://github.com/ishuar/aws-resource-inventory/pull/67) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix!: scan documents move out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/66) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix!: ECS service ids are the cluster/service path AWS puts in the ARN](https://github.com/ishuar/aws-resource-inventory/pull/65) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
