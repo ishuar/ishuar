@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (today)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 2 days ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 3 days ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [fix!: ECS service ids are the cluster/service path AWS puts in the ARN](https://github.com/ishuar/aws-resource-inventory/pull/65) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [docs: records.py states the name guarantee the code actually gives](https://github.com/ishuar/aws-resource-inventory/pull/64) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: the scan cache moves out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/62) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [fix!: ECS service ids are the cluster/service path AWS puts in the ARN](https://github.com/ishuar/aws-resource-inventory/pull/65) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [docs: records.py states the name guarantee the code actually gives](https://github.com/ishuar/aws-resource-inventory/pull/64) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [fix: the scan cache moves out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/62) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (2 days ago)
 
 ### ⭐ Recent Stars
 
