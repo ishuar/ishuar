@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix: e2e-diff.sh stops passing the --format flag that was removed](https://github.com/ishuar/aws-resource-inventory/pull/67) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix!: scan documents move out of shared /tmp into a per-user directory](https://github.com/ishuar/aws-resource-inventory/pull/66) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [fix!: ECS service ids are the cluster/service path AWS puts in the ARN](https://github.com/ishuar/aws-resource-inventory/pull/65) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [docs: records.py states the name guarantee the code actually gives](https://github.com/ishuar/aws-resource-inventory/pull/64) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
