@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [feat!: the scan reports failed regions and services in its output and exit code](https://github.com/ishuar/aws-resource-inventory/pull/69) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: logging is configured only by the CLI, never as an import side effect](https://github.com/ishuar/aws-resource-inventory/pull/68) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [fix: e2e-diff.sh stops passing the --format flag that was removed](https://github.com/ishuar/aws-resource-inventory/pull/67) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: aws-inventory waste — find abandoned resources with evidence and honest confidence](https://github.com/ishuar/aws-resource-inventory/pull/78) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: the tag-drift provider — inventory minus the tagged set](https://github.com/ishuar/aws-resource-inventory/pull/77) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: the remaining five state rules — elb, rds, efs, and two ecs rules](https://github.com/ishuar/aws-resource-inventory/pull/76) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 
 ### ⭐ Recent Stars
 
