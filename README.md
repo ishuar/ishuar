@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (today)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (4 days ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (5 days ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 3 days ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.1.1](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.1.1), 4 days ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [feat: aws-inventory waste — find abandoned resources with evidence and honest confidence](https://github.com/ishuar/aws-resource-inventory/pull/78) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: the tag-drift provider — inventory minus the tagged set](https://github.com/ishuar/aws-resource-inventory/pull/77) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
-- [feat: the remaining five state rules — elb, rds, efs, and two ecs rules](https://github.com/ishuar/aws-resource-inventory/pull/76) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
+- [feat: aws-inventory waste — find abandoned resources with evidence and honest confidence](https://github.com/ishuar/aws-resource-inventory/pull/78) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [feat: the tag-drift provider — inventory minus the tagged set](https://github.com/ishuar/aws-resource-inventory/pull/77) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
+- [feat: the remaining five state rules — elb, rds, efs, and two ecs rules](https://github.com/ishuar/aws-resource-inventory/pull/76) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
