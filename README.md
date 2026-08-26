@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: default output filenames start with the AWS account id](https://github.com/ishuar/aws-resource-inventory/pull/79) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (today)
 - [feat: aws-inventory waste — find abandoned resources with evidence and honest confidence](https://github.com/ishuar/aws-resource-inventory/pull/78) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 - [feat: the tag-drift provider — inventory minus the tagged set](https://github.com/ishuar/aws-resource-inventory/pull/77) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
-- [feat: the remaining five state rules — elb, rds, efs, and two ecs rules](https://github.com/ishuar/aws-resource-inventory/pull/76) on [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) (1 day ago)
 
 ### ⭐ Recent Stars
 
