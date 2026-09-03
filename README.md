@@ -43,13 +43,13 @@
 ### 🔭 Latest releases I've contributed to
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 1 week ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 3 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 4 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
-- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (today)
+- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
+- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 day ago)
 
 ### ⭐ Recent Stars
 
