@@ -36,24 +36,24 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (4 days ago)
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (5 days ago)
 - [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 weeks ago)
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 3 weeks ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 4 weeks ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 4 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
-- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
-- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (2 weeks ago)
+- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
+- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
+- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (6 months ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (7 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 years ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (2 years ago)
 
