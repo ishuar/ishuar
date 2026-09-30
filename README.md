@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
-- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
-- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
-- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (3 weeks ago)
+- [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
+- [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
+- [docs: adopt Conventional Commits for PR titles and commit messages](https://github.com/ishuar/ishuar.github.io/pull/44) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (4 weeks ago)
 
 ### ⭐ Recent Stars
 
