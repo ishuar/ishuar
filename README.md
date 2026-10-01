@@ -37,7 +37,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (1 week ago)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (3 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (4 weeks ago)
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
