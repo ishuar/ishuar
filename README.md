@@ -47,13 +47,13 @@
 
 ### 🔨 My recent Pull Requests
 
-- [docs: update README action references from v4 to v5](https://github.com/googleapis/release-please-action/pull/1228) on [googleapis/release-please-action](https://github.com/googleapis/release-please-action) (6 days ago)
+- [docs: update README action references from v4 to v5](https://github.com/googleapis/release-please-action/pull/1228) on [googleapis/release-please-action](https://github.com/googleapis/release-please-action) (1 week ago)
 - [fix: fetch stargazerCount so pinned repos render with a fine-grained token](https://github.com/ishuar/ishuar.github.io/pull/46) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
 - [Revert the dark-mode Lottie ink recolour from PR 30](https://github.com/ishuar/ishuar.github.io/pull/45) on [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) (1 month ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (7 months ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (8 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 years ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (2 years ago)
 
