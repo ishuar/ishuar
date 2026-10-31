@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [docs: generate command reference from cobra; trim README to a landing page](https://github.com/ishuar/tfskel/pull/112) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [feat(validate)!: exit 1 on error, 2 on findings](https://github.com/ishuar/tfskel/pull/111) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [docs(review): document --ai, --ai-model, --ai-max-tokens and provider selection](https://github.com/ishuar/tfskel/pull/110) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [feat(review)!: exit 0 on plan changes by default; add --detailed-exitcode](https://github.com/ishuar/tfskel/pull/108) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
