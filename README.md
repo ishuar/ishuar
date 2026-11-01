@@ -42,14 +42,14 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.9.0](https://github.com/ishuar/tfskel/releases/tag/v0.9.0), today) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 2 months ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.8.4](https://github.com/ishuar/tfskel/releases/tag/v0.8.4), 5 months ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 
 ### 🔨 My recent Pull Requests
 
-- [docs: generate command reference from cobra; trim README to a landing page](https://github.com/ishuar/tfskel/pull/112) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [feat(validate)!: exit 1 on error, 2 on findings](https://github.com/ishuar/tfskel/pull/111) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
-- [docs(review): document --ai, --ai-model, --ai-max-tokens and provider selection](https://github.com/ishuar/tfskel/pull/110) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
+- [ci: add renovate config](https://github.com/ishuar/tfskel/pull/119) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [refactor(review): drop unused NewPlanAnalyzerWithConfig](https://github.com/ishuar/tfskel/pull/117) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [docs: package comments for every package; architecture.md becomes a map](https://github.com/ishuar/tfskel/pull/116) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 
 ### ⭐ Recent Stars
 
