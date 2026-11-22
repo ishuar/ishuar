@@ -36,24 +36,24 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (2 weeks ago)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (2 days ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (3 weeks ago)
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.9.0](https://github.com/ishuar/tfskel/releases/tag/v0.9.0), 2 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.9.0](https://github.com/ishuar/tfskel/releases/tag/v0.9.0), 3 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 2 months ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 
 ### 🔨 My recent Pull Requests
 
-- [ci: add renovate config](https://github.com/ishuar/tfskel/pull/119) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 weeks ago)
-- [refactor(review): drop unused NewPlanAnalyzerWithConfig](https://github.com/ishuar/tfskel/pull/117) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 weeks ago)
-- [docs: package comments for every package; architecture.md becomes a map](https://github.com/ishuar/tfskel/pull/116) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (2 weeks ago)
+- [ci: add renovate config](https://github.com/ishuar/tfskel/pull/119) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
+- [refactor(review): drop unused NewPlanAnalyzerWithConfig](https://github.com/ishuar/tfskel/pull/117) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
+- [docs: package comments for every package; architecture.md becomes a map](https://github.com/ishuar/tfskel/pull/116) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
-- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (8 months ago)
+- [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (9 months ago)
 - [ishuar/terraform-azure-workload-identity](https://github.com/ishuar/terraform-azure-workload-identity) - Terraform module for creating workload identity in azure. (2 years ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor). (2 years ago)
 
