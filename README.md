@@ -37,19 +37,19 @@
 ### 👷 Check out what I'm currently working on
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code. (today)
-- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (today)
+- [ishuar/ishuar.github.io](https://github.com/ishuar/ishuar.github.io) - Portfolio GitHub Page. (1 day ago)
 - [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS). (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [ishuar/tfskel](https://github.com/ishuar/tfskel) ([v0.9.0](https://github.com/ishuar/tfskel/releases/tag/v0.9.0), 3 weeks ago) - CLI tool to reduce Terraform operational complexity and enable scalable Infrastructure as Code.
-- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 2 months ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
+- [ishuar/aws-resource-inventory](https://github.com/ishuar/aws-resource-inventory) ([v0.2.0](https://github.com/ishuar/aws-resource-inventory/releases/tag/v0.2.0), 3 months ago) - Python utility to scan existing AWS resources — with tags across 100&#43; services (otherwise limited to EC2, VPC, Auto Scaling, S3, ECS).
 
 ### 🔨 My recent Pull Requests
 
-- [fix: harden install script failure paths](https://github.com/ishuar/tfskel/pull/133) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
-- [ci: add renovate config](https://github.com/ishuar/tfskel/pull/119) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
-- [refactor(review): drop unused NewPlanAnalyzerWithConfig](https://github.com/ishuar/tfskel/pull/117) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (3 weeks ago)
+- [ci: update golangci-lint to v2.15.0 and fix new findings](https://github.com/ishuar/tfskel/pull/136) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [refactor: drop the dead no-color branch from NewCommonStyles](https://github.com/ishuar/tfskel/pull/135) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
+- [fix: harden install script failure paths](https://github.com/ishuar/tfskel/pull/133) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (1 day ago)
 
 ### ⭐ Recent Stars
 
