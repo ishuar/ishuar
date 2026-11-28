@@ -47,9 +47,9 @@
 
 ### 🔨 My recent Pull Requests
 
+- [fix(scaffold): skip success message when workflows.create is false](https://github.com/ishuar/tfskel/pull/137) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (today)
 - [ci: update golangci-lint to v2.15.0 and fix new findings](https://github.com/ishuar/tfskel/pull/136) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
 - [refactor: drop the dead no-color branch from NewCommonStyles](https://github.com/ishuar/tfskel/pull/135) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (4 days ago)
-- [fix: harden install script failure paths](https://github.com/ishuar/tfskel/pull/133) on [ishuar/tfskel](https://github.com/ishuar/tfskel) (5 days ago)
 
 ### ⭐ Recent Stars
 
